@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from Levenshtein import distance, ratio
 
-file_path = '../data/the-advisor-match-10000.csv' 
+file_path = '../postreSQL/matching_results_postresql.csv' 
 data = pd.read_csv(file_path)
 
 #print(data.head())
@@ -24,4 +24,5 @@ plt.title('Levenshtein Distance Over Sorted Dataset')
 plt.xlabel('Index')
 plt.ylabel('Levenshtein Distance')
 plt.grid(True)
-plt.show()
+plt.savefig('levenshtein_distance_plot_postgreSQL.png')
+print("Done")
