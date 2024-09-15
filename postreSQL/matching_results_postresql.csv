@@ -1,11 +1,51 @@
 Randomized_String,Matched_Original_String,Similarity
-Tpecswe Csscckt: Exploising Tpeculcsive Execusion.,Spectre Attacks: Exploiting Speculative Execution.,0.25373134
-Melsdown,Meltdown,0.5
-Compusew Tcience Cuwwiculc 2013,Computer Science Curricula 2013,0.4090909
-Aa Svaluatioa of Objset-Orisatsd DBIS Dsvslopisats: 1994 Sditioa.,An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.,0.29411766
-DARWTN: On sha Tncramansal Mtgraston of Lagacy Tnformaston Syssams,DARWIN: On the Incremental Migration of Legacy Information Systems,0.29213482
-"Iatsgratiag Hstsrogsasous, Autoaoious, Distributsd Applieatioas Usiag ths DOI Prototyps.","Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.",0.33898306
-Objecs Model Ccpcbilisiet Fow Ditswibused Objecs Mcncgemens.,Object Model Capabilities For Distributed Object Management.,0.28395063
-Iatsgratiag Objset-Orisatsd Applieatioas aad Iiddlswars with Rslatioaal Databasss.,Integrating Object-Oriented Applications and Middleware with Relational Databases.,0.28448275
-Sowards a Sransacston Managamans Syssam for DOM.,Towards a Transaction Management System for DOM.,0.44444445
-A 'RTSC' Objacs Modal for Objacs Syssam Tnsaroparaston: Concapss and Appltcastons.,A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.,0.30097088
+Spectre Attacks: Exploitiag Speculative Executioa.,Spectre Attacks: Exploiting Speculative Execution.,0.78723407
+Malsdown,Meltdown,0.2857143
+Computer Tcience Curriculc 2013,Computer Science Curricula 2013,0.7222222
+Aa Evaluatioa of Object-Orieated DBIS Developieats: 1994 Editioa.,An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.,0.6086956
+DARWIN: On sha Incramansal Migrasion of Lagacy Informasion Syssams,DARWIN: On the Incremental Migration of Legacy Information Systems,0.4556962
+Integrcting Heterogeneout Cutonomout Dittributed Cpplicctiont Uting the DOM Prototype.,"Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.",0.6020408
+Object Model Ccpcbilitiet For Dittributed Object Mcncgement.,Object Model Capabilities For Distributed Object Management.,0.5522388
+Iategratiag Object-Orieated Applicatioas aad Iiddleware with Relatioaal Databases.,Integrating Object-Oriented Applications and Middleware with Relational Databases.,0.60215056
+Towcrdt c Trcntcction Mcncgement Tyttem for DOM.,Towards a Transaction Management System for DOM.,0.3478261
+A 'RISC' Objacs Modal for Objacs Syssam Insaroparasion: Concapss and Applicasions.,A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.,0.42553192
+IetaObject Protocol Coacepts for a RISC Object Iodel.,MetaObject Protocol Concepts for a RISC Object Model.,0.7090909
+Object Dctc Lcngucge Fccilitiet for Multimedic Dctc Typet.,Object Data Language Facilities for Multimedia Data Types.,0.47826087
+Object Dctc Model Fccilitiet for Multimedic Dctc Typet.,Object Data Model Facilities for Multimedia Data Types.,0.59322035
+Dittributed Object Mcncgement Technology.,Distributed Object Management Technology.,0.67346936
+Experimentt with Ditpctching in c Dittributed Object Tyttem.,Experiments with Dispatching in a Distributed Object System.,0.56164384
+Muffin: C Dittributed Dctcbcte Mcchine,Muffin: A Distributed Database Machine,0.3846154
+Object Orieated DBIS as a Geaeralizatioa of Relatioaal DBIS,Object Oriented DBMS as a Generalization of Relational DBMS,0.58064514
+Inharisanca for ADSs (ravisad),Inheritance for ADTs (revised),0.26666668
+Modificction of Uter Defined Typet,Modification of User Defined Types,0.627907
+Objacs ADSs (wish improvamanss for Valua ADSs),Object ADTs (with improvements for Value ADTs),0.36842105
+Uaificatioa of Value aad Object ADTs,Unification of Value and Object ADTs,0.627907
+Die Repr&auil;seatatioa r&auil;uilichea Wisseas uad die Behaadluag voa Eiabettuagsprobleiea iit Quadtreedepiktioaea,Die Repr&auml;sentation r&auml;umlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen,0.45112783
+Clgebrciccl Optimizction of FTC-Exprettiont,Algebraical Optimization of FTA-Expressions,0.36065573
+Wittentrepr&cuml;tentction und Mctchinellet Lernen,Wissensrepr&auml;sentation und Maschinelles Lernen,0.41428572
+Cn Clgebrcic Chcrccterizction of TTUF,An Algebraic Characterization of STUF,0.3272727
+A Coibiaed Syibolic-Eipirical Apprach for the Autoiatic Traaslatioa of Coipouads,A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds,0.48979592
+Zur Tyttemcrchitektur von LILOG,Zur Systemarchitektur von LILOG,0.5897436
+Manganoriansiarsa Auswarsung von Anfragan in dar Logikprogrammiarspracha PROLOG,Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG,0.45544556
+Defiaite Resolutioa over Coastraiat Laaguages,Definite Resolution over Constraint Languages,0.53333336
+Dokuieatatioa der Syatax der LILOG-Graiiatik,Dokumentation der Syntax der LILOG-Grammatik,0.49019608
+Cogaitive Liaguistics: The Processiag of Spatial Coacepts,Cognitive Linguistics: The Processing of Spatial Concepts,0.6615385
+LILOG-DB: Database Support for Kaowledge-Based Systeis,LILOG-DB: Database Support for Knowledge-Based Systems,0.78571427
+Differenticl Cloture Computction for Genercl Horn-Clcute Queriet,Differential Closure Computation for General Horn-Clause Queries,0.5443038
+SQL/Data Systei for VSE: A Relatioaal Data Systei for Applicatioa Developieat.,SQL/Data System for VSE: A Relational Data System for Application Development.,0.6666667
+A Logical Operatioaal Seiaatics of Full Prolog,A Logical Operational Semantics of Full Prolog,0.7058824
+Eia Fact Iaaager zur persisteatea Speicheruag variabel strukturierter koiplexer Objekte,Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte,0.6633663
+How could a good systei of practical aLP look like?,How could a good system of practical NLP look like?,0.8333333
+I&ouil;glichkeitea des Eiasatzes eiaes dreiwertigea Theoreibeweisers,M&ouml;glichkeiten des Einsatzes eines dreiwertigen Theorembeweisers,0.5974026
+Attribute Iaheritaace Iipleieated oa Top of a Relatioaal Database Systei,Attribute Inheritance Implemented on Top of a Relational Database System,0.53846157
+LMT - Mcchine Trcntlction Demonttrction,LMT - Machine Translation Demonstration,0.40425533
+Implementction Ctpectt of c Ncturcl Lcngucge Underttcnding Tyttem in c Prolog/DB Environment,Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment,0.46218488
+Sort Processiag ia a Deductive Database Systei,Sort Processing in a Deductive Database System,0.7307692
+EFTC: C Dctcbcte Retrievcl Clgebrc for Fecture Termt,EFTA: A Database Retrieval Algebra for Feature Terms,0.35135135
+Knowledge in Operction,Knowledge in Operation,0.7692308
+Aa Overview oa Plaaaiag Applicatioas ia PROTOS-L,An Overview on Planning Applications in PROTOS-L,0.5081967
+&Uuil;ber Aas&auil;tze zur Darstelluag voa Koazeptea uad Prototypea,&Uuml;ber Ans&auml;tze zur Darstellung von Konzepten und Prototypen,0.4939759
+Attributive Coacept Descriptioas with Uaioas aad Coipleieats,Attributive Concept Descriptions with Complements.,0.49275362
+Ein prcktitcher Clgorithmut f&uuml;r die E-Unifikction,Ein praktischer Algorithmus f&uuml;r die E-Unifikation,0.58208954
+Siiulatioa Sprachlichea Versteheas: Geaerelle Probleie bei der seiaatischea Iaterpretatioa der aat&uuil;rlichea Sprache,Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der nat&uuml;rlichen Sprache,0.53333336
+The Iastitute for Kaowledge Based Systeis ia the IBI Geriaay Scieatific Ceater,The Institute for Knowledge Based Systems in the IBM Germany Scientific Center,0.5217391

@@ -45,7 +45,7 @@ def build_hash_table(k, file1, file1_key, top_mers_remove=10, file1_associated_a
     ]
     #Note by passing in 1000000000000 it assures the full size of the hashmap is created
     #to index from
-    parse_file(file1, file1_key, dblp_callbacks,10000,file1_associated_attributes)
+    parse_file(file1, file1_key, dblp_callbacks,100000000000000,file1_associated_attributes)
 
     mer_hash = remove_top_k_mers(mer_hash, top_mers_remove)
 

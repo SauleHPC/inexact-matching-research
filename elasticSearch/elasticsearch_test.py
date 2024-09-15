@@ -1,6 +1,6 @@
 from elasticsearch import Elasticsearch
 import pandas as pd
-
+import time
 
 #Connect to ElasticSearch
 es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
@@ -15,9 +15,10 @@ try:
 except Exception as e:
     print(f"Error creating index: {e}")
 
-csv_file_path = "../data/the-advisor-match-10000.csv"
+csv_file_path = "../data/inexact-matching-dataset.csv"
 df = pd.read_csv(csv_file_path)
 
+time1 = time.time()
 #Loop through strings that are the original strings in the data
 for original_string in df['Original_String']:
     doc = {"original_string": original_string}
@@ -25,6 +26,8 @@ for original_string in df['Original_String']:
         es.index(index=index_name, body=doc)
     except Exception as e:
         print(f"Error indexing document: {e}")
+time2 = time.time()
+print("Time to build document ", time2-time1)
 
 #Fuzzy match to find best match in data.
 def find_best_match(randomized_string):
@@ -54,9 +57,13 @@ def find_best_match(randomized_string):
 
 #Iterate over and find_best_match for the randomzied strings and apped all resutls
 results = []
+time3 = time.time()
 for randomized_string in df['Randomized_String'][0:10000]:
     match, score = find_best_match(randomized_string)
-    results.append({
+time4 = time.time()
+print("Time taken to perform query ",time4-time3)
+
+results.append({
         "Randomized_String": randomized_string,
         "Matched_Original_String": match,
         "Score": score

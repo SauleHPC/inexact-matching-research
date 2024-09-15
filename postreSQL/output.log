@@ -1,0 +1,4 @@
+nohup: ignoring input
+Time taken to load database  564.8300812244415
+Time taken to perform matching  2223.381110906601
+Results saved to matching_results_postresql.csv

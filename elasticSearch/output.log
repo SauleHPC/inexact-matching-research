@@ -1,0 +1,3 @@
+nohup: ignoring input
+/home/dspradl1/inexact-matching-research/elasticSearch/elasticsearch_test.py:13: DeprecationWarning: Passing transport options in the API method is deprecated. Use 'Elasticsearch.options()' instead.
+  es.indices.create(index=index_name, ignore=400)

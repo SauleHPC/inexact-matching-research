@@ -1,8 +1,9 @@
 import psycopg2
 import pandas as pd
+import time
 
 conn = psycopg2.connect(
-    dbname="inexacttest",
+    dbname="inexactmatching",
     user="postgres",
     host="localhost",
     port="5432"
@@ -42,20 +43,27 @@ def find_best_match(randomized_string):
     result = cur.fetchone()
     return result if result else (None, 0)
 
-csv_file_path = "../data/the-advisor-match-10000.csv"
+csv_file_path = "../data/inexact-matching-dataset.csv"
 df = pd.read_csv(csv_file_path)
 
+time1 = time.time()
 load_original_strings(df['Original_String'].unique())
+time2 = time.time()
+print("Time taken to load database ",time2-time1)
 
 #Iterate over Randomized_String and find matches
 results = []
-for randomized_string in df['Randomized_String'][0:10000]:
+time3 = time.time()
+for randomized_string in df['Randomized_String'][0:50]:
     match, similarity = find_best_match(randomized_string)
     results.append({
         "Randomized_String": randomized_string,
         "Matched_Original_String": match,
         "Similarity": similarity
     })
+time4 = time.time()
+
+print("Time taken to perform matching ",time4-time3)
 
 results_df = pd.DataFrame(results)
 
