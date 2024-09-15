@@ -35,7 +35,7 @@ def fuzzy_match(k_value, file1, file1_key, file2, file2_key, file1_path, file2_p
     time4 = time.time()
     print("Time to peform matching",time4-time3)
     if not all_arrays_empty(results):
-        write_to_csv(results, 'the-advisor-match-all.csv')
+        write_to_csv(results, 'the-advisor-match-5kmer-remove600kmers.csv')
         return True
     return False
 
@@ -52,5 +52,5 @@ file2 = "../data/inexact-matching-dataset.csv"
 file2_key = "Original_String"
 file2_path ='../data/inexact-matching-dataset.csv'
 
-num_removed_kmers = 800
+num_removed_kmers = 600
 fuzzy_match(k_mer, file1, file1_key, file2, file2_key, file1_path, file2_path, num_removed_kmers)
