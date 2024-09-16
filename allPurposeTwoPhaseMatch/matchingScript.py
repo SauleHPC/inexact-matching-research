@@ -1,5 +1,5 @@
 from Parse import parse_file
-from matchingProgram import matching_process, build_hash_table, write_to_csv
+from matchingProgram import matching_process, build_hash_table, write_to_csv, make_graphs
 import time 
 '''
 script to execute matchingProgram used to paper querying
@@ -35,7 +35,8 @@ def fuzzy_match(k_value, file1, file1_key, file2, file2_key, file1_path, file2_p
     time4 = time.time()
     print("Time to peform matching",time4-time3)
     if not all_arrays_empty(results):
-        write_to_csv(results, 'the-advisor-match-5kmer-remove600kmers.csv')
+        write_to_csv(results, f'the-advisor-match-{k_value}-{num_removed_kmers}.csv')
+        make_graphs(f'../data/the-advisor-match-{k_value}-{num_removed_kmers}.csv',f'theAdvior-k{k_value}-removedK{num_removed_kmers}')
         return True
     return False
 
@@ -43,7 +44,6 @@ def all_arrays_empty(arrays):
     return all(not array for array in arrays)
 
 
-k_mer = 5
 file1 = "../data/inexact-matching-dataset.csv"
 file1_key = "Randomized_String"
 file1_path = '../data/inexact-matching-dataset.csv'
@@ -52,5 +52,9 @@ file2 = "../data/inexact-matching-dataset.csv"
 file2_key = "Original_String"
 file2_path ='../data/inexact-matching-dataset.csv'
 
-num_removed_kmers = 600
-fuzzy_match(k_mer, file1, file1_key, file2, file2_key, file1_path, file2_path, num_removed_kmers)
+num_removed_kmers = [300, 800, 1400]
+num_kmers = [3, 5, 7]
+
+for k_mer in num_kmers:
+    for num_removed_kmer in num_removed_kmers:
+        fuzzy_match(k_mer, file1, file1_key, file2, file2_key, file1_path, file2_path, num_removed_kmer)

@@ -10,6 +10,8 @@ import numpy as np
 import os
 import csv
 from pathlib import Path
+from Levenshtein import distance, ratio
+
 
 '''
 @brief: used to build hashtable and then begin candidate process through function calls to k-mer
@@ -45,7 +47,7 @@ def build_hash_table(k, file1, file1_key, top_mers_remove=10, file1_associated_a
     ]
     #Note by passing in 1000000000000 it assures the full size of the hashmap is created
     #to index from
-    parse_file(file1, file1_key, dblp_callbacks,100000000000000,file1_associated_attributes)
+    parse_file(file1, file1_key, dblp_callbacks,60000,file1_associated_attributes)
 
     mer_hash = remove_top_k_mers(mer_hash, top_mers_remove)
 
@@ -149,5 +151,55 @@ def write_to_csv(data, filename):
         writer = csv.writer(file)
         writer.writerow(header)
         writer.writerows(data)
+
+
+def make_graphs(file_path, method):
+    data = pd.read_csv(file_path)
+
+    #print(data.head())
+    
+    data['Randomized_String'] = data['Randomized_String'].astype(str).fillna('')
+    data['Original_String'] = data['Original_String'].astype(str).fillna('')
+
+    #---------------------Levenshtein Ratio-----------------------------------
+
+
+    data['Levenshtein_Ratio'] = data.apply(
+        #lambda row: distance(row['Randomized_String'], row['Original_String']),
+        lambda row: ratio(row['Randomized_String'], row['Original_String']),
+        axis=1
+    )
+
+    data_sorted = data.sort_values(by='Levenshtein_Ratio').reset_index(drop=True)
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(data_sorted.index, data_sorted['Levenshtein_Ratio'], marker='o', linestyle='-', color='b')
+    plt.title('Levenshtein Ratio Over Sorted Dataset '+method)
+    plt.xlabel('Index')
+    plt.ylabel('Levenshtein Ratio')
+    plt.grid(True)
+    plt.savefig('../parameter-study/'+method+'-levenshtein-ratio.png')
+
+#---------------------Levenshtein Distance-----------------------------------
+
+    data['Levenshtein_Distance'] = data.apply(
+        lambda row: distance(row['Randomized_String'], row['Original_String']),
+        #lambda row: ratio(row['Randomized_String'], row['Original_String']),
+        axis=1
+    )
+
+    data_sorted = data.sort_values(by='Levenshtein_Distance').reset_index(drop=True)
+
+    #print(data_sorted[['Randomized_String', 'Original_String', 'Levenshtein_Distance']])
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(data_sorted.index, data_sorted['Levenshtein_Distance'], marker='o', linestyle='-', color='b')
+    plt.title('Levenshtein Distance Over Sorted Dataset '+method)
+    plt.xlabel('Index')
+    plt.ylabel('Levenshtein Distance')
+    plt.grid(True)
+    plt.savefig('../parameter-study/'+method+'-levenshtein-distance.png')
+    print("Done")
+
 
 
