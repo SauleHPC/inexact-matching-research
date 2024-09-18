@@ -3,14 +3,11 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-method = ['theAdvisor', 'PostgreSQL','MongoDB','ElasticSearch']
+method = ['ElasticSearch']
 
-file_paths = ['../data/the-advisor-match-all-1.csv', 
-              '../postreSQL/matching_results_postresql.csv',
-              '../mongoDB/matching_results_mongodb.csv',
-              '../elasticSearch/elasticsearch_matching_results.csv']
+file_paths = ['../elasticSearch/elasticsearch_matching_results.csv']
 
-output_file_paths = ['../graphs/the-advisor','../graphs/postgresql', '../graphs/mongodb', '../graphs/elasticsearch']
+output_file_paths = ['../graphs/elasticsearch']
 
 for i in range(len(file_paths)):
     data = pd.read_csv(file_paths[i])
@@ -33,6 +30,7 @@ for i in range(len(file_paths)):
 
     plt.figure(figsize=(10, 6))
     plt.plot(data_sorted.index, data_sorted['Levenshtein_Ratio'], marker='o', linestyle='-', color='b')
+    plt.ylim(0, 1)
     plt.title('Levenshtein Ratio Over Sorted Dataset '+method[i])
     plt.xlabel('Index')
     plt.ylabel('Levenshtein Ratio')
@@ -40,7 +38,7 @@ for i in range(len(file_paths)):
     plt.savefig(output_file_paths[i]+'-levenshtein-ratio.png')
 
 #---------------------Levenshtein Distance-----------------------------------
-
+'''
     data['Levenshtein_Distance'] = data.apply(
         lambda row: distance(row['Randomized_String'], row['Original_String']),
         #lambda row: ratio(row['Randomized_String'], row['Original_String']),
@@ -59,3 +57,4 @@ for i in range(len(file_paths)):
     plt.grid(True)
     plt.savefig(output_file_paths[i]+'-levenshtein-distance.png')
     print("Done")
+'''
