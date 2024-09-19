@@ -47,7 +47,7 @@ def build_hash_table(k, file1, file1_key, top_mers_remove=10, file1_associated_a
     ]
     #Note by passing in 1000000000000 it assures the full size of the hashmap is created
     #to index from
-    parse_file(file1, file1_key, dblp_callbacks,60000,file1_associated_attributes)
+    parse_file(file1, file1_key, dblp_callbacks,6000000000000000,file1_associated_attributes)
 
     mer_hash = remove_top_k_mers(mer_hash, top_mers_remove)
 
@@ -89,6 +89,7 @@ def matching_process(k_value, mer_hash, levenshtein_candidates, paper_details,ca
     global successful_candidates, total_candidates
     trial_results = []
 
+    hashTime1 = time.time()
     query_result = query_selector(mer_hash, mer_builder(candidate, candidate_key, k_value, False, False))
 
     #extract the highest int value from the values part of the dictionary to give us the highest frequency match
@@ -96,18 +97,19 @@ def matching_process(k_value, mer_hash, levenshtein_candidates, paper_details,ca
         highest_frequency = max(query_result.values())
     else:
         highest_frequency = 0
-
+    hashTime2 = time.time()
+    hashTimeTot = hashTime2 - hashTime1
 
     #if highest frequency k-mer hashing candidate is 60% of the length of the candidate title we will go ahead with levenshtein
-
+    levTime1 = time.time()
     if(len(getattr(candidate, candidate_key))>0 and (highest_frequency/len(getattr(candidate, candidate_key)))>levenshteinThreshold):
         top_matches = top_candidates_levenshtein(query_result, levenshtein_candidates, getattr(candidate, candidate_key), paper_details)
 
     else:
         #need to at least initialize the value so we don't throw an error below when checking the len of top_matches
         top_matches=[]
-
-    correctMatch = None
+    levTime2 = time.time()
+    levTimeTotal = levTime2-levTime1
 
     match = False
     #here we make sure that we have two candidates to compare and our best candidate has a levenshtein ratio
@@ -124,8 +126,14 @@ def matching_process(k_value, mer_hash, levenshtein_candidates, paper_details,ca
         #File 2
         trial_results.append((getattr(candidate, candidate_key)))
         successful_candidates +=1
-
-        
+        trial_results.append(hashTimeTot)
+        trial_results.append(levTimeTotal)
+    else:
+        trial_results.append((""))
+        trial_results.append((getattr(candidate, candidate_key)))
+        successful_candidates +=1
+        trial_results.append(hashTimeTot)
+        trial_results.append(levTimeTotal)
 
     return trial_results
 
@@ -139,7 +147,7 @@ def write_to_csv(data, filename):
     - data: List of lists where each sub-list contains two elements [randomized_string, original_string].
     - filename: The name of the CSV file to write to.
     """
-    header = ['Randomized_String', 'Original_String']
+    header = ['Randomized_String', 'Original_String', 'Hash_Time_Per_Query', 'Leven_Time_Per_Query']
 
     directory = os.path.join('..', 'data') 
 
@@ -200,6 +208,10 @@ def make_graphs(file_path, method):
     plt.grid(True)
     plt.savefig('../parameter-study/'+method+'-levenshtein-distance.png')
     print("Done")
+
+
+
+
 
 
 
