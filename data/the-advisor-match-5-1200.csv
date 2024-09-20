@@ -570,7 +570,7 @@ The Capabilities of Relatioaal Database Iaaageieat Systeis.,The Capabilities of 
 Analysis of projacsad hydrological bahavior of caschmanss basad on signasura indicas,Analysis of projected hydrological behavior of catchments based on signature indices,0.07698392868041992,0.0551912784576416
 Aar Shapa for Biomasric Idansificasion.,Ear Shape for Biometric Identification.,0.03350353240966797,0.024971723556518555
 ARP Poisoaiag.,ARP Poisoning.,0.0009789466857910156,0.0006427764892578125
-,Tokea.,7.62939453125e-06,1.1920928955078125e-06
+Tokea.,,7.62939453125e-06,1.1920928955078125e-06
 Mulsi-Shraadad Implamansasion for Crypsography and Crypsanalysis.,Multi-Threaded Implementation for Cryptography and Cryptanalysis.,0.03210639953613281,0.0198667049407959
 Privacy-Preserviag Autheaticatioa ia Wireless Access aetworks.,Privacy-Preserving Authentication in Wireless Access Networks.,0.08324432373046875,0.044187307357788086
 Ittuer.,Quelques propri&eacute;t&eacute;s des langages &agrave; un Comptuer.,1.5020370483398438e-05,1.1682510375976562e-05
@@ -586,7 +586,7 @@ Nccccche-Ttern Higher Retiduet Cryptotyttem.,Naccache-Stern Higher Residues Cryp
 Blum-Goldwctter Public Key Encryption Tyttem.,Blum-Goldwasser Public Key Encryption System.,0.04351401329040527,0.017760038375854492
 Field.,The Degree of the Splitting Field of a Random Polynomial over a Finite Field.,0.005866289138793945,0.004975080490112305
 Ralasivaly Prima.,Forecasting Daily Primary Three-Hour Net Load Ramps in the CAISO System.,0.004069089889526367,0.002769947052001953
-,Clphcbet.,9.059906005859375e-06,7.152557373046875e-07
+Clphcbet.,,9.059906005859375e-06,7.152557373046875e-07
 Electronic Cheque.,Electronic Cheque.,0.025422096252441406,0.011367321014404297
 CLAFIA.,Speaker verification using probabilistic 2D CLAFIC.,1.0728836059570312e-05,1.5497207641601562e-05
 Highar Ordar Darivasiva Assack.,X-Net-Based Radar Data Assimilation Study over the Seoul Metropolitan Area.,0.003269195556640625,0.0026624202728271484
@@ -638,13 +638,13 @@ Decitioncl Diffie-Hellmcn Cttumption.,Decisional Diffie-Hellman Assumption.,0.01
 Tecure Network Coding for Wirelett Meth Networkt.,Secure Network Coding for Wireless Mesh Networks.,0.04693126678466797,0.02759528160095215
 MDC-2 and MDC-4.,MDC-2 and MDC-4.,0.0004303455352783203,0.0001590251922607422
 Security Architecture.,Security Architecture.,0.013786554336547852,0.010817289352416992
-,AAS.,5.0067901611328125e-06,9.5367431640625e-07
+AAS.,,5.0067901611328125e-06,9.5367431640625e-07
 Alberti Eacryptioa.,Stateful identity-based encryption scheme: faster encryption and decryption.,0.009739398956298828,0.004926443099975586
 Roles ia SQL.,Roles in SQL.,0.003890514373779297,0.0031299591064453125
 Bioietric Cryptosystei.,Some Basic Cryptographic Requirements for Chaos-Based Cryptosystems.,0.010893583297729492,0.005902528762817383
 Indax Calculus.,Formal Calculus and Umbral Calculus.,0.009768247604370117,0.004165172576904297
 SSL.,SSL.,6.198883056640625e-06,6.9141387939453125e-06
-,Nsru.,3.5762786865234375e-06,7.152557373046875e-07
+Nsru.,,3.5762786865234375e-06,7.152557373046875e-07
 Tubttitution-Permutction (TP) Network.,Substitution-Permutation (SP) Network.,0.010850906372070312,0.006123065948486328
 Suiiatioa geaerator.,Design of an autonomous aerator.,0.010542154312133789,0.008683204650878906
 SCP SYN Cookias.,TCP SYN Cookies.,0.0002932548522949219,0.0001277923583984375
@@ -670,11 +670,11 @@ Electronic Ccth.,Electronic markets and electronic hierarchies in the context of
 Iatellectual Property.,"""The Fruits of Intellectual Labor"": International Student Views of Intellectual Property.",0.05587601661682129,0.033330678939819336
 Siartcard taiper resistaace.,Smartcard tamper resistance.,0.014286041259765625,0.009190559387207031
 Multiprecition Tqucring.,Multiprecision Squaring.,0.003002166748046875,0.00252532958984375
-,TEPC.,5.245208740234375e-06,1.1920928955078125e-06
+TEPC.,,5.245208740234375e-06,1.1920928955078125e-06
 Algorithiic DoS.,Algorithmic DoS.,0.0004634857177734375,0.00019812583923339844
 Electroaic Check.,Electronic Check.,0.006026029586791992,0.003329753875732422
 Ssack (Buffar) Ovarrun.,Stack (Buffer) Overrun.,0.0005364418029785156,0.00022077560424804688
-,Digitcl Ttegcnogrcphy.,1.6450881958007812e-05,7.152557373046875e-07
+Digitcl Ttegcnogrcphy.,,1.6450881958007812e-05,7.152557373046875e-07
 Public Kay Proxy Ancrypsion.,Public Key Proxy Encryption.,0.03250241279602051,0.021805763244628906
 Mulsisas Assack.,Diversity as Asset.,0.0009164810180664062,0.0005862712860107422
 Intercctive Crgument.,"Walton on Argument, Arguments, and Argumentation.",0.023180723190307617,0.01714944839477539
@@ -703,7 +703,7 @@ Side-Chaaael Aaalysis.,Low-Cost Solutions for Preventing Simple Side-Channel Ana
 Cryptaaalysis.,Biclique Cryptanalysis on the Full Crypton-256 and mCrypton-128.,0.002387523651123047,0.002312183380126953
 Biometric Recognition.,Biometric Recognition.,0.010356903076171875,0.008191585540771484
 Cuthenticcted Encryption.,Identity-Based Authenticated Broadcast Encryption and Distributed Authenticated Encryption.,0.037470102310180664,0.012568473815917969
-,PIAC.,5.245208740234375e-06,9.5367431640625e-07
+PIAC.,,5.245208740234375e-06,9.5367431640625e-07
 Tecure Computer Tyttem Model.,Secure Computer System Model.,0.03984475135803223,0.02797532081604004
 Idansisy Proof.,Validation of HOL Proofs by Proof Checking.,0.008745431900024414,0.005764484405517578
 Keybocrd Dyncmict.,Keyboard Dynamics.,0.001977205276489258,0.0014955997467041016
@@ -745,7 +745,7 @@ Tigncryption.,"ID-based Signcryption Scheme with (t, n) Shared Unsigncryption.",
 ID-Based Eacryptioa.,Efficient Hybrid Encryption from ID-Based Encryption.,0.011223316192626953,0.0071218013763427734
 Aushorizasion Policy.,A Policy Language for Integrating Heterogeneous Authorization Policies.,0.019727706909179688,0.01215505599975586
 Hittory-Bcted Tepcrction of Dutiet.,History-Based Separation of Duties.,0.007103919982910156,0.00564122200012207
-,GCI.,4.291534423828125e-06,1.1920928955078125e-06
+GCI.,,4.291534423828125e-06,1.1920928955078125e-06
 Mamory and Ssasa Axhaussion Danial of Sarvica.,Memory and State Exhaustion Denial of Service.,0.03784346580505371,0.029150962829589844
 Raak Codes.,"A Comparison of Known Codes, Random Codes, and the Best Codes.",0.014541387557983398,0.0097198486328125
 Linaar Complaxisy.,Periodic Sequences with Maximal Linear Complexity and Large k-Error Linear Complexity.,0.008399724960327148,0.0067713260650634766
@@ -769,7 +769,7 @@ Tentor Key Ettcblithment cnd Mcintencnce.,Sensor Key Establishment and Maintenan
 Luby-Rackoff Ciphers.,Luby-Rackoff Ciphers.,0.003460407257080078,0.0018908977508544922
 Password.,Accessing Password-Protected Resources without the Password.,0.0015211105346679688,0.0005118846893310547
 Visual Secret Shariag Scheies.,On Converting Secret Sharing Scheme to Visual Secret Sharing Scheme.,0.027704477310180664,0.016837120056152344
-,Iix aetworks.,1.3589859008789062e-05,7.152557373046875e-07
+Iix aetworks.,,1.3589859008789062e-05,7.152557373046875e-07
 Booieraag Attack.,ML Attack Models: Adversarial Attacks and Data Poisoning Attacks.,0.0173799991607666,0.006993293762207031
 Crott-Correlction.,A Ternary Zero-Correlation Zone Sequence Set Having Wide Inter-Subset Zero-Correlation Zone.,0.014523744583129883,0.009557962417602539
 Feistel Cipher.,Feistel Cipher.,0.0024509429931640625,0.0014271736145019531
@@ -777,7 +777,7 @@ Fiagerpriat.,Adaptive fingerprint image enhancement with fingerprint image quali
 Nontecret Encryption.,Searchable Encryption to Reduce Encryption Degradation in Adjustably Encrypted Databases.,0.017340898513793945,0.005485057830810547
 Qucdrctic Tieve.,Seven Years of SMOS Sea Surface Salinity at High Latitudes: Variability in Arctic and Sub-Arctic Regions.,0.004650592803955078,0.003625631332397461
 Diffie-Hellmcn Key Exchcnge.,Diffie-Hellman Key Exchange.,0.005206584930419922,0.0037610530853271484
-,Tclt.,4.76837158203125e-06,1.1920928955078125e-06
+Tclt.,,4.76837158203125e-06,1.1920928955078125e-06
 Zaroizasion.,Pivotal persuasion.,0.009647130966186523,0.007906675338745117
 Voica Biomasrics.,Continental Africa Biomass Burning Temporal Dynamics Derived from MSG SEVIRI.,0.003989219665527344,0.00310516357421875
 Insaracsiva Proof Syssams.,Memorizable Interactive Proof and Zero-Knowledge Proof Systems.,0.009713172912597656,0.005805015563964844
@@ -796,7 +796,7 @@ Related Key Attack.,Related Key Attack.,0.048191070556640625,0.02803277969360351
 Tecure Logging.,Secure Logging.,0.020582199096679688,0.011255025863647461
 Order.,Interpreting Second-Order Logic in the Monadic Theory of Order.,0.006410121917724609,0.00577092170715332
 Hash-Basad Signasuras.,Hash-Based Signatures.,0.019774198532104492,0.009818553924560547
-,DNC.,4.5299530029296875e-06,1.430511474609375e-06
+DNC.,,4.5299530029296875e-06,1.430511474609375e-06
 Three-Fcctor Cuthenticction.,On a user authentication method to realise an authentication system using s-EMG.,0.02422165870666504,0.009417533874511719
 Zetc Function Computction.,A Study on Computer Teaching Based on Computational Thinking.,0.016070127487182617,0.012378215789794922
 Ganarasor.,On the planes of narayana rao and satyanarayana.,6.532669067382812e-05,3.743171691894531e-05
@@ -817,7 +817,7 @@ Whirlpool.,Whirlpool.,7.653236389160156e-05,3.6716461181640625e-05
 Insaracsiva Proof.,"Why ""Fiat-Shamir for Proofs"" Lacks a Proof.",0.006201028823852539,0.003679513931274414
 Miller-Rcbin Probcbilittic Primclity Tett.,Miller-Rabin Probabilistic Primality Test.,0.020885467529296875,0.014708280563354492
 ID4 Hash Fuactioa.,MD4 Hash Function.,0.0019712448120117188,0.0014455318450927734
-,GIAC.,5.7220458984375e-06,1.1920928955078125e-06
+GIAC.,,5.7220458984375e-06,1.1920928955078125e-06
 TCP Retet Injection.,A Comparison of Inject-on-Read and Inject-on-Write in ISA-Level Fault Injection.,0.004037141799926758,0.002245664596557617
 False Data Iajectioa Defease.,False Data Injection Defense.,0.015744447708129883,0.01246190071105957
 Iultiparty Coiputatioa (IPC).,Protocols for Multiparty Coin Toss with a Dishonest Majority.,0.007902860641479492,0.005492448806762695
@@ -863,7 +863,7 @@ Threshold Sigaature.,An Approach to Convert Any Threshold Signature into a Thres
 Impottible Differenticl Cttcck.,Improbable Differential from Impossible Differential: On the Validity of the Model.,0.03849506378173828,0.02299189567565918
 Grectett Common Divitor.,Greatest Common Divisor.,0.01784515380859375,0.011605262756347656
 Biba Iaadatory Iategrity Policy.,Biba Mandatory Integrity Policy.,0.02691197395324707,0.01562643051147461
-,ID4-ID5.,1.0013580322265625e-05,9.5367431640625e-07
+ID4-ID5.,,1.0013580322265625e-05,9.5367431640625e-07
 Physical Unclonabla Funcsions (PUFs).,Physical Unclonable Functions (PUFs).,0.03558492660522461,0.019865751266479492
 Formcl Cnclytit of Cryptogrcphic Protocolt.,Relating Cryptography and Cryptographic Protocols.,0.036505699157714844,0.02143692970275879
 Iodulus.,Modulus.,0.0009758472442626953,0.0005421638488769531
@@ -894,7 +894,7 @@ Kay managamans.,UML models consistency management: Guidelines for software quali
 auiber Field Sieve.,Number Field Sieve.,0.0179290771484375,0.009383916854858398
 Big auiber Squariag.,Big Number Squaring.,0.004361152648925781,0.002846240997314453
 Carsifiad Mail.,DomainKeys Identified Mail (DKIM) and Mailing Lists.,0.0012722015380859375,0.0008769035339355469
-,Tpywcre.,7.152557373046875e-06,9.5367431640625e-07
+Tpywcre.,,7.152557373046875e-06,9.5367431640625e-07
 Certificate Iaaageieat.,Certificate Profile and Certificate Management for SEcure Neighbor Discovery (SEND).,0.014361858367919922,0.009778976440429688
 Pcttword.,Chinese Relation Extraction Using Extend Softword.,0.00010442733764648438,5.888938903808594e-05
 Rcdio Frequency Cttcckt.,A Passive Radio Frequency Amplifier for Radio Frequency Identification Tags.,0.017873287200927734,0.008554458618164062
@@ -936,7 +936,7 @@ Cheiical Coibiaatorial Attack.,Chemical Combinatorial Attack.,0.0385036468505859
 Hash Chaia.,Hash Chain.,0.003955841064453125,0.0031328201293945312
 Chcllenge-Retponte Identificction.,Challenge-Response Identification.,0.023433923721313477,0.012238502502441406
 Aushansicasion From an Informasion Shaorasic Parspacsiva.,A Formal Translation From an Imperative Language With Array to a Declarative Language.,0.048635244369506836,0.030859708786010742
-,Keyttrecm.,1.1920928955078125e-05,1.1920928955078125e-06
+Keyttrecm.,,1.1920928955078125e-05,1.1920928955078125e-06
 Recipient Cnonymity.,Recipient Anonymity.,0.011478900909423828,0.008525609970092773
 Biometric Key Generction.,Biometric Key Generation.,0.009299039840698242,0.006470203399658203
 Racord Linkaga.,Towards Privacy-Preserving Record Linkage with Record-Wise Linkage Policy.,0.00698399543762207,0.0055010318756103516
@@ -989,7 +989,7 @@ Replay Attack.,Replay Attack.,0.021207094192504883,0.009606599807739258
 Modet of Operction of c Block Cipher.,Modes of Operation of a Block Cipher.,0.0395808219909668,0.025109052658081055
 Keystroke Loggiag.,Keystroke Logging.,0.003681659698486328,0.0023064613342285156
 Public-Key Autheaticated Eacryptioa.,Public-Key Authenticated Encryption.,0.04455113410949707,0.02490687370300293
-,Ordar.,7.62939453125e-06,1.1920928955078125e-06
+Ordar.,,7.62939453125e-06,1.1920928955078125e-06
 Virtualizatioa Security.,Using System Virtualization to Create Virtualized Networks.,0.023189067840576172,0.018075227737426758
 Clcw-Free.,Claw-Free.,0.002863168716430664,0.002325773239135742
 aoarepudiatioa Protocol.,Nonrepudiation Protocol.,0.013439655303955078,0.011380434036254883
@@ -999,7 +999,7 @@ Ideatity Iaaageieat.,Collaborative Ideation Partner: Design Ideation in Human-AI
 Random Bis Ganarasor.,An Almost-Greedy Search on Random Binary Vectors and Random Graphs.,0.019640445709228516,0.012310981750488281
 Wateriarkiag.,"Small Water Clusters: The Cases of Rare Gas-Water, Alkali Ion-Water and Water Dimer.",0.01584482192993164,0.009992837905883789
 Zero-kaowledge.,Zero-knowledge.,0.003523588180541992,0.002746105194091797
-,FECL.,7.62939453125e-06,1.430511474609375e-06
+FECL.,,7.62939453125e-06,1.430511474609375e-06
 Tecure Function Evcluction.,Secure Function Evaluation.,0.03458976745605469,0.022307872772216797
 Hardwara Sacurisy Modula.,A Radix-4 Modular Multiplication Hardware Algorithm for Modular Exponentiation.,0.05443215370178223,0.02364802360534668
 aTRUEacrypt.,"Diffie-Hellman Type Key Exchange, ElGamal Like Encryption/Decryption and Proxy Re-encryption Using Circulant Matrices.",0.00693202018737793,0.006300926208496094
@@ -1112,7 +1112,7 @@ Iacrodata Disclosure Protectioa.,Macrodata Disclosure Protection.,0.027284145355
 Telf-Tynchronizing Ttrecm Cipher.,Synchronizing automata with finitely many minimal synchronizing words.,0.033473968505859375,0.01122903823852539
 Cnti-DoT Cookiet.,Who Took the Cookie from the Cookie Jar?,0.0006709098815917969,0.0004012584686279297
 Quansum Crypsography.,Unconditionally Secure Cryptosystem Based on Quantum Cryptography.,0.008986473083496094,0.006803750991821289
-,Mcc.,4.291534423828125e-06,7.152557373046875e-07
+Mcc.,,4.291534423828125e-06,7.152557373046875e-07
 Access Rights.,Access Rights.,0.011913061141967773,0.009450435638427734
 Group Sigaatures.,Group Signatures.,0.020954370498657227,0.014290571212768555
 Mulsipla Ancrypsion.,Secrecy Amplification of Distributed Encrypted Sources With Correlated Keys Using Post-Encryption-Compression.,0.012054204940795898,0.010300636291503906
@@ -1180,7 +1180,7 @@ Allipsic Curva Kay Agraamans Schamas.,High Rank Elliptic Curves with Torsion Z/4
 Kasuii/Iisty1.,Kasumi/Misty1.,1.4066696166992188e-05,6.4373016357421875e-06
 Skipjack.,Skipjack.,3.504753112792969e-05,1.8358230590820312e-05
 OAAP: Opsimal Asymmasric Ancrypsion Padding.,OAEP: Optimal Asymmetric Encryption Padding.,0.027774810791015625,0.02307271957397461
-,Riag.,5.4836273193359375e-06,1.1920928955078125e-06
+Riag.,,5.4836273193359375e-06,1.1920928955078125e-06
 Tide-Chcnnel Cnclytit.,Low-Cost Solutions for Preventing Simple Side-Channel Analysis: Side-Channel Atomicity.,0.0012118816375732422,0.0008656978607177734
 Ioadex.,Design and Implementation of Virtual Class based on Jadex.,8.821487426757812e-06,8.58306884765625e-06
 Product Cipher Tuperencryption.,"Product Cipher, Superencryption.",0.02639460563659668,0.01307535171508789
@@ -1198,13 +1198,13 @@ Tubgroup.,Free subgroups in maximal subgroups of skew linear groups.,0.004454612
 FIPS 140-2.,FIPS 140-2.,3.981590270996094e-05,2.384185791015625e-05
 SHA.,SHA.,3.337860107421875e-06,3.337860107421875e-06
 Ssrong RSA Assumpsion.,Strong RSA Assumption.,0.012566328048706055,0.010231971740722656
-,IPtec.,6.4373016357421875e-06,9.5367431640625e-07
+IPtec.,,6.4373016357421875e-06,9.5367431640625e-07
 Pteudo-Mertenne Prime.,Pseudo-Mersenne Prime.,0.00624847412109375,0.0050618648529052734
 Key Cgreement.,A SVM Cascade for Agreement/Disagreement Classification.,0.0028798580169677734,0.001005411148071289
 Root of Trust.,Root of Trust.,0.009138345718383789,0.005398750305175781
 Chroiosoie.,"""Post&eacute;ditorial"": Les Universit&eacute;s d'Aix-Marseille sur les routes de la soie.",1.0013580322265625e-05,1.811981201171875e-05
 BLS Shors Digisal Signasuras.,BLS Short Digital Signatures.,0.03167295455932617,0.02108454704284668
-,MCC.,5.0067901611328125e-06,1.1920928955078125e-06
+MCC.,,5.0067901611328125e-06,1.1920928955078125e-06
 Collition Retittcnce.,Collision Resolution Protocol via Soft Decision Retransmission Criterion.,0.02148604393005371,0.013097763061523438
 Two-Key Cryptotyttem.,Two-Key Cryptosystem.,0.006710529327392578,0.0030984878540039062
 Diffia-Hallman Problam.,Diffie-Hellman Problem.,0.005023956298828125,0.003620624542236328
@@ -1319,7 +1319,7 @@ Seader Aaoayiity.,RASPberry: A Stable Reader Activation Scheduling Protocol in M
 Advaaced Hash Coipetitioa.,Advanced Hash Competition.,0.016261816024780273,0.00937795639038086
 Multilevel Dctcbcte.,A Multilevel Active CM Noise Power Filter for Multilevel Inverters.,0.015423297882080078,0.009522438049316406
 Ovarspanding Pravansion.,Statistics of companding noise for QAM transmission.,0.01701807975769043,0.013603687286376953
-,Cdwcre.,7.152557373046875e-06,7.152557373046875e-07
+Cdwcre.,,7.152557373046875e-06,7.152557373046875e-07
 Firawall.,Video Game Trolls and Dopamine Withdrawal.,0.00010752677917480469,5.412101745605469e-05
 Chroot Jail.,Chroot Jail.,0.00026988983154296875,0.00012564659118652344
 Entity Retolution.,Mapping OWL to the Entity Relationship and Extended Entity Relationship models.,0.013892412185668945,0.0063686370849609375
@@ -1339,12 +1339,12 @@ DeBruijn tequence.,DeBruijn sequence.,0.006934165954589844,0.005822420120239258
 Heredity.,Heredity.,0.0011827945709228516,0.0008051395416259766
 Copy Protectioa.,Are We Really Protected? An Investigation into the Play Protect Service.,0.014834880828857422,0.008348941802978516
 Rabin Crypsosyssam.,Rabin Cryptosystem.,0.002847909927368164,0.002504587173461914
-,Gcp.,4.76837158203125e-06,7.152557373046875e-07
+Gcp.,,4.76837158203125e-06,7.152557373046875e-07
 Chinete Wcll Model.,Chinese Wall Model.,0.019629955291748047,0.016393423080444336
 CPS Carsificasa Pracsica Ssasamans.,Subgraph sparsification and nearly optimal ultrasparsifiers.,0.005256175994873047,0.004225492477416992
 Two-Factor Autheaticatioa.,Two-Factor Authentication.,0.029206037521362305,0.017455101013183594
 Assribusa Carsificasa.,gSparsify: Graph Motif Based Sparsification for Graph Clustering.,0.0009436607360839844,0.0006067752838134766
-,Geae.,4.5299530029296875e-06,7.152557373046875e-07
+Geae.,,4.5299530029296875e-06,7.152557373046875e-07
 Adwards Coordinasas.,Partial Coordination. I. The Best of Pre-Coordination and Post-Coordination.,0.018051862716674805,0.005852937698364258
 User Autheaticatioa.,Remote User Authentication Using a Voice Authentication System.,0.024615049362182617,0.017294883728027344
 Biomasric Sassing.,Optimal Control of Biomass Feedstock Processing System Under Uncertainty in Biomass Quality.,0.009879112243652344,0.00790548324584961
@@ -1358,7 +1358,7 @@ Elliptic Curves.,Point Counting on Elliptic and Hyperelliptic Curves.,0.01729416
 Discrasionary Accass Consrol Policias (DAC).,Discretionary Access Control Policies (DAC).,0.04544377326965332,0.027878522872924805
 Miss-in-sha-Middla Assack.,Miss-in-the-Middle Attack.,0.0017275810241699219,0.0012881755828857422
 Multivcricte Cryptogrcphy.,High-Assurance Cryptography: Cryptographic Software We Can Trust.,0.013445615768432617,0.006398916244506836
-,TTT.,4.76837158203125e-06,9.5367431640625e-07
+TTT.,,4.76837158203125e-06,9.5367431640625e-07
 Polyinssansiasion.,Polyinstantiation.,0.009383440017700195,0.00764155387878418
 Timultcneout Exponentiction.,Fast Exponentiation Using Split Exponents.,0.029676437377929688,0.013704299926757812
 Consrol Vacsors.,Risk-type Description of Control Variants.,0.003368377685546875,0.0026464462280273438
@@ -1368,7 +1368,7 @@ PKCS.,PKCS.,3.337860107421875e-06,3.0994415283203125e-06
 Levels of Trust.,Levels of Trust.,0.022765398025512695,0.02407050132751465
 Adminissrasiva Policias in SQL.,Administrative Policies in SQL.,0.02588486671447754,0.015227317810058594
 Tpecific Emitter Identificction (TEI).,Specific Emitter Identification (SEI).,0.07929515838623047,0.044510841369628906
-,Iaxiis.,9.298324584960938e-06,1.430511474609375e-06
+Iaxiis.,,9.298324584960938e-06,1.430511474609375e-06
 Autocorrelatioa.,Autocorrelated correlation filter for visual tracking.,0.02205824851989746,0.007056713104248047
 Public Key Cryptography.,Public-Randomness in Public Key Cryptography.,0.03591632843017578,0.01736903190612793
 Imparsonasion Assack.,Personas on the Move: Making Personas for Today's Mobile Workforce.,0.008450031280517578,0.006816387176513672
@@ -1390,14 +1390,14 @@ aoaialleability.,Nonmalleability.,0.008317947387695312,0.00654149055480957
 Mcchine Recdcble Trcvel Document Tecurity.,Machine Readable Travel Document Security.,0.04450106620788574,0.02358698844909668
 Shriakiag Geaerator.,Design of an autonomous aerator.,0.01044917106628418,0.008152961730957031
 Pteudo-Noite Tequence (PN-Tequence).,Pseudo-Noise Sequence (PN-Sequence).,0.002279996871948242,0.0017919540405273438
-,CRS.,5.245208740234375e-06,9.5367431640625e-07
+CRS.,,5.245208740234375e-06,9.5367431640625e-07
 Thcnnon't Model.,"Don't Mourn, Organize.",0.01325535774230957,0.01101064682006836
 aoarepudiable Agreeieat.,Nonrepudiable Agreement.,0.0045359134674072266,0.0033440589904785156
 HTTP Digest Autheaticatioa.,HTTP Digest Authentication.,0.015946626663208008,0.009689807891845703
 Probabilistic Key Shariag.,Probabilistic Key Sharing.,0.05215954780578613,0.017628908157348633
 Keyword-Bcted Retrievcl over Encrypted Dctc.,Keyword-Based Retrieval over Encrypted Data.,0.06465291976928711,0.03170943260192871
-,ACI.,7.3909759521484375e-06,9.5367431640625e-07
-,VTTT.,3.0994415283203125e-06,4.76837158203125e-07
+ACI.,,7.3909759521484375e-06,9.5367431640625e-07
+VTTT.,,3.0994415283203125e-06,4.76837158203125e-07
 Modulcr Crithmetic.,The arithmetic of cuts in models of arithmetic.,0.01555943489074707,0.009751319885253906
 Web-Based Security Protocols.,Web-Based Security Protocols.,0.0433962345123291,0.03128361701965332
 Tender Cnonymity.,"Quantifying Graph Anonymity, Utility, and De-anonymity.",0.009212493896484375,0.006983280181884766
@@ -1445,7 +1445,7 @@ Key Variatioa.,Propagation Delay Variation due to Process Induced Threshold Volt
 Sieviag.,Sieving.,5.817413330078125e-05,2.86102294921875e-05
 Samporal Aushorizasion Modals.,Temporal Authorization Models.,0.03709077835083008,0.026637554168701172
 Pseudo-raadoi auiber geaerator.,Pseudo-random number generator.,0.01694321632385254,0.011489391326904297
-,HMCC.,5.4836273193359375e-06,1.430511474609375e-06
+HMCC.,,5.4836273193359375e-06,1.430511474609375e-06
 Uatraceability.,Towards a requirements traceability process centered on the traceability model.,0.009804010391235352,0.007456779479980469
 Dasignasad Confirmar Signasura.,Designated Confirmer Signature.,0.03394484519958496,0.02154684066772461
 Fcult Cttcck.,How to Fairly Allocate Easy and Difficult Chores.,0.0003809928894042969,0.0001838207244873047
@@ -1470,7 +1470,7 @@ Quadrasic Rasidua.,The Quadratic and Double Quadratic Residue Ciphers.,0.0082116
 Wisnass Hiding.,Witness Hiding.,0.011956453323364258,0.00947117805480957
 Taiper Resistaace.,A Resistance Deviation-to-Pulsewidth Converter for Resistive Sensors.,0.01490926742553711,0.009762048721313477
 Privacy-Awara Dasabasa.,Privacy-Aware Eye Tracking Using Differential Privacy.,0.025292158126831055,0.011603593826293945
-,NSRU.,5.0067901611328125e-06,1.1920928955078125e-06
+NSRU.,,5.0067901611328125e-06,1.1920928955078125e-06
 Consrol Vacsor.,Risk-type Description of Control Variants.,0.00014901161193847656,6.890296936035156e-05
 Signad Window Axponansiasion.,Dual Windows Are Significant: Learning from Mediastinal Window and Focusing on Lung Window.,0.02490544319152832,0.018342018127441406
 Plcyfcir Cipher.,Playfair Cipher.,0.002331972122192383,0.0012137889862060547
@@ -1544,7 +1544,7 @@ TSS.,TSS.,5.4836273193359375e-06,5.7220458984375e-06
 TQL Injection Cttcckt.,Comparing SQL Injection Detection Tools Using Attack Injection: An Experimental Study.,0.003230571746826172,0.0016455650329589844
 Uaiversal Oae-Way Hash Fuactioas (UOWHF).,Universal One-Way Hash Functions (UOWHF).,0.016748666763305664,0.010993242263793945
 Sacura Rousing Prosocols.,ProsocialLearn: A Prosocial Games Marketplace.,0.013323068618774414,0.0106048583984375
-,Kay.,4.76837158203125e-06,1.430511474609375e-06
+Kay.,,4.76837158203125e-06,1.430511474609375e-06
 Denicble encryption.,Deniable encryption protocols based on probabilistic public-key encryption.,0.01473093032836914,0.00519871711730957
 Singla Wira Prosocol.,ProsocialLearn: A Prosocial Games Marketplace.,0.010260820388793945,0.008635759353637695
 Mars.,Mars.,3.838539123535156e-05,2.5272369384765625e-05
@@ -1563,7 +1563,7 @@ Md4-Md5.,Md4-Md5.,8.58306884765625e-06,4.76837158203125e-06
 Chaffing and Winnowing.,Chaffing and Winnowing.,0.008833885192871094,0.0064411163330078125
 Physical Raadoi Fuactioa.,Delaying Physical Register Allocation through Virtual-Physical Registers.,0.026604175567626953,0.011879444122314453
 Iultiple Eacryptioa.,Stateful identity-based encryption scheme: faster encryption and decryption.,0.008661746978759766,0.004499673843383789
-,AMV.,5.245208740234375e-06,1.1920928955078125e-06
+AMV.,,5.245208740234375e-06,1.1920928955078125e-06
 Psaudoprima.,Pseudoprime.,0.0008103847503662109,0.0005242824554443359
 ECC Chcllenget.,ECC Challenges.,0.012430429458618164,0.00478672981262207
 Tmoothnett Probcbility.,Smoothness Probability.,0.01572394371032715,0.013271093368530273
@@ -1594,7 +1594,7 @@ Hyperelliptic Curve Ditcrete Logcrithm Problem (HECDLP).,Hyperelliptic Curve Dis
 Secure Vehicular Coiiuaicatioa Systeis.,Reliable Vehicular-to-Vehicular Connectivity.,0.047084808349609375,0.023676395416259766
 Security Staadards Activities.,Security Standards Activities.,0.027538776397705078,0.02001023292541504
 Waak Axclusion.,Inclusion-exclusion meets exclusion.,0.012944221496582031,0.009224176406860352
-,IPET.,6.67572021484375e-06,1.1920928955078125e-06
+IPET.,,6.67572021484375e-06,1.1920928955078125e-06
 Differenticl Cryptcnclytit.,Differential Cryptanalysis of DES-like Cryptosystems.,0.027240514755249023,0.017819881439208984
 Spacial-Purposa Crypsanalysical Hardwara.,Special-Purpose Cryptanalytical Hardware.,0.036739349365234375,0.01826643943786621
 Ron't Code 6.,CPM: Masking Code Pointers to Prevent Code Injection Attacks.,0.010596990585327148,0.0073604583740234375
@@ -1623,7 +1623,7 @@ Birthday Paradox.,Birthday Paradox.,0.0036907196044921875,0.0028121471405029297
 Probabilissic Primalisy Sass.,Miller-Rabin Probabilistic Primality Test.,0.040808677673339844,0.016169071197509766
 White-Box Cryptography.,White-Box Cryptography.,0.022115707397460938,0.010947227478027344
 Electronic Wcllet.,Electronic markets and electronic hierarchies in the context of electronic commerce.,0.02193617820739746,0.008994102478027344
-,IDEC.,5.4836273193359375e-06,1.1920928955078125e-06
+IDEC.,,5.4836273193359375e-06,1.1920928955078125e-06
 MIPS-Yaar.,MIPS-Year.,2.1219253540039062e-05,2.2172927856445312e-05
 Hyperelliptic Curve Tecurity.,Elliptic and Hyperelliptic Curve Cryptography.,0.029338598251342773,0.01904296875
 Certificateless Cryptography.,Certificateless Cryptography.,0.03705239295959473,0.022166728973388672
@@ -1828,7 +1828,7 @@ Cccett Control Littt.,SPC without Control Limits and Normality Assumption: A New
 Clock-Coatrolled Geaerator.,Clock-Controlled Generator.,0.02841949462890625,0.02152562141418457
 Interpolction Cttcck.,Image interpolation using interpolative classified vector quantization.,0.013259410858154297,0.008336782455444336
 Pcttport Tecurity.,Decision Support Technique for Supply Chain Management.,0.004199028015136719,0.0032215118408203125
-,Thcre.,6.4373016357421875e-06,9.5367431640625e-07
+Thcre.,,6.4373016357421875e-06,9.5367431640625e-07
 Iaster Key.,Master Key.,0.00922393798828125,0.005903720855712891
 Closass Vacsor Problam.,Will Power Problems Curtail Processor Progress?,0.01238107681274414,0.007644176483154297
 Cramar-Shoup Public-Kay Syssam.,Cramer-Shoup Public-Key System.,0.014280319213867188,0.0071065425872802734
@@ -1845,7 +1845,7 @@ IP Traceback.,IP Traceback.,0.011341094970703125,0.009285449981689453
 Ssrucsural Crypsanalysis.,Structural Cryptanalysis.,0.005598545074462891,0.004774332046508789
 Palipriat Autheaticatioa.,Two-Pass Authenticated Key Exchange with Explicit Authentication and Tight Security.,0.0137481689453125,0.00881648063659668
 Signcrypsion.,"ID-based Signcryption Scheme with (t, n) Shared Unsigncryption.",0.011641979217529297,0.010321855545043945
-,HIAC.,5.4836273193359375e-06,9.5367431640625e-07
+HIAC.,,5.4836273193359375e-06,9.5367431640625e-07
 Visual Sacras Sharing Schamas.,On Converting Secret Sharing Scheme to Visual Secret Sharing Scheme.,0.03136944770812988,0.015990257263183594
 Karatsuba algorithi.,Karatsuba algorithm.,0.00019431114196777344,6.532669067382812e-05
 Onlina Analysical Procassing.,Modelling Topological and Metrical Properties in Physical Processes.,0.04954648017883301,0.034151554107666016
@@ -1870,7 +1870,7 @@ Boomarang Assack.,Building Associated Semantic Overlay for Discovering Associate
 Homomorphic Encryption.,Attribute-Based Group Homomorphic Encryption and Additively Homomorphic IBE.,0.034098148345947266,0.012496232986450195
 Schaorr Ideatificatioa Protocol.,Schnorr Identification Protocol.,0.013292074203491211,0.011376380920410156
 Eatity Autheaticatioa Protocol.,Entity Authentication Protocol.,0.03296375274658203,0.025670766830444336
-,SAAL.,5.4836273193359375e-06,9.5367431640625e-07
+SAAL.,,5.4836273193359375e-06,9.5367431640625e-07
 Trunccted Differenticlt.,Graded Differential Categories and Graded Differential Linear Logic.,0.039559364318847656,0.02680492401123047
 Iiaiial Polyaoiial.,Segmentation and Detection of Colorectal Polyps Using Local Polynomial Approximation.,0.010263681411743164,0.0076141357421875
 Access Pattera.,Mining Access Patterns for Enhancing Navigational Access in Object-Oriented Database.,0.023755788803100586,0.013868570327758789
@@ -1880,9 +1880,9 @@ aoaliaear Feedback Shift Register.,Nonlinear Feedback Shift Register.,0.04684185
 Key Autheaticatioa.,Key Management Based on Ownership of Multiple Authenticators in Public Key Authentication.,0.014642000198364258,0.008832693099975586
 Primisiva Alamans.,Primitive3D: 3D Object Dataset Synthesis from Randomly Assembled Primitives.,0.001199960708618164,0.0008766651153564453
 <i>L</i> aotatioa.,"A new approach to <i>L</i>-<i>T</i><sub>2</sub>, <i>L</i>-Urysohn, and <i>L</i>-completely Hausdorff axioms.",0.0070781707763671875,0.0066606998443603516
-,Cass.,5.245208740234375e-06,1.430511474609375e-06
+Cass.,,5.245208740234375e-06,1.430511474609375e-06
 Linaar Crypsanalysis for Ssraam Ciphars.,Linear Cryptanalysis for Stream Ciphers.,0.014478445053100586,0.007241964340209961
-,TTH.,5.245208740234375e-06,9.5367431640625e-07
+TTH.,,5.245208740234375e-06,9.5367431640625e-07
 Poins Counsing.,Design of Target Cyber Counseling System using Counseling Assistance Agent.,0.018433809280395508,0.014930963516235352
 Contittency Verificction of Tecurity Policy.,Consistency Verification of Security Policy.,0.04961872100830078,0.02837514877319336
 Berlekaip <i>Q</i>-iatrix.,Berlekamp <i>Q</i>-matrix.,0.008419036865234375,0.006582975387573242
@@ -1900,7 +1900,7 @@ k-Anonymisy.,An Overview of P-Sensitive k-Anonymity Models for Microdata Anonymi
 Mcn-in-the-Middle Cttcck.,Man-in-the-Middle Attack.,0.006130218505859375,0.003248929977416992
 GCD.,GCD.,5.245208740234375e-06,5.245208740234375e-06
 Primitive Element.,Primitive Element.,0.01278996467590332,0.007065773010253906
-,TET.,4.0531158447265625e-06,1.1920928955078125e-06
+TET.,,4.0531158447265625e-06,1.1920928955078125e-06
 Anonymous Communicasion.,Anonymous Communication and Anonymous Cash.,0.026060819625854492,0.019074678421020508
 Hcrdwcre Tecurity Module.,Module-theoretic Properties of Reachability Modules for SRIQ.,0.02530384063720703,0.014104604721069336
 Trojaa.,TrojanNet: Embedding Hidden Trojan Horse Models in Neural Networks.,0.0002372264862060547,0.00010633468627929688
@@ -1942,9 +1942,9 @@ Liaear Feedback Shift Register.,Linear Feedback Shift Register.,0.04751348495483
 Cryptography oa Recoafigurable Devices.,Cryptography on Reconfigurable Devices.,0.0845484733581543,0.04626178741455078
 ML-Saquanca.,How to beat Capablanca.,3.743171691894531e-05,3.600120544433594e-05
 Sida-Channal Laakaga.,Dual-Polarized Multi-Channel 24 GHz Radar Sensor Antenna for High Channel-to-Channel Isolation.,0.015831470489501953,0.011904001235961914
-,Rua.,6.67572021484375e-06,1.1920928955078125e-06
+Rua.,,6.67572021484375e-06,1.1920928955078125e-06
 Iicrodata Disclosure Protectioa.,Microdata Disclosure Protection.,0.02853250503540039,0.014578580856323242
-,MILT.,6.198883056640625e-06,9.5367431640625e-07
+MILT.,,6.198883056640625e-06,9.5367431640625e-07
 Flaxibla Aushorizasion Framawork (FAF).,Flexible Authorization Framework (FAF).,0.017410993576049805,0.011354923248291016
 Mulsilaval Sacurisy Policias.,Infinite-horizon Off-Policy Policy Evaluation with Multiple Behavior Policies.,0.011029481887817383,0.006154060363769531
 ECC.,ECC.,5.245208740234375e-06,6.4373016357421875e-06
@@ -2011,7 +2011,7 @@ Threthold Cryptogrcphy.,Relating Cryptography and Cryptographic Protocols.,0.011
 Block ciphers.,Block ciphers.,0.012998819351196289,0.009251117706298828
 Perfect Forward Secrecy.,Perfect Forward Secrecy.,0.03740954399108887,0.020895719528198242
 Private Iaforiatioa Retrieval.,Symmetric Private Information Retrieval at the Private Information Retrieval Rate.,0.060103654861450195,0.024241209030151367
-,Replcy Cttcck.,1.6927719116210938e-05,1.1920928955078125e-06
+Replcy Cttcck.,,1.6927719116210938e-05,1.1920928955078125e-06
 Key Life Cycle Mcncgement.,Key Life Cycle Management.,0.009968996047973633,0.0056116580963134766
 Known plcintext cttcck.,Known plaintext attack.,0.008416414260864258,0.00700688362121582
 Gait Recogaitioa.,GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition.,0.0038161277770996094,0.0029799938201904297
@@ -2025,7 +2025,7 @@ Pccket Flooding Cttcck.,Packet Flooding Attack.,0.004860877990722656,0.003591537
 Anshropomasry.,An anthropometric study for the anthropomorphic design of tomato-harvesting robots.,0.0005476474761962891,0.00023412704467773438
 Qucntum Cryptogrcphy.,Post-Quantum Crystography: A combination of Post-Quantum Cryptography and Steganography.,0.015483617782592773,0.007717609405517578
 Formal Mashods and Accass Consrol.,Formal Methods and Access Control.,0.05505037307739258,0.03955483436584473
-,aFS.,6.4373016357421875e-06,1.430511474609375e-06
+aFS.,,6.4373016357421875e-06,1.430511474609375e-06
 Sriparsisa Kay Axchanga.,Exchange-Repairs - Managing Inconsistency in Data Exchange.,0.008109807968139648,0.0046024322509765625
 von Naumann Corracsion.,von Neumann Correction.,0.018297195434570312,0.013846397399902344
 Ron't Code 5.,CPM: Masking Code Pointers to Prevent Code Injection Attacks.,0.010406017303466797,0.007481098175048828
@@ -2039,7 +2039,7 @@ Fias-Shamir Idansificasion Prosocol And Sha Fias-Shamir Signasura Schama.,Fiat-S
 Linaar Congruansial Ganarasor.,Linear Congruential Generator.,0.01385188102722168,0.010426044464111328
 Identity Verificction Protocol.,Identity Verification Protocol.,0.036580801010131836,0.018260478973388672
 C&aelig;sar cipher.,C&aelig;sar cipher.,0.002012491226196289,0.0013422966003417969
-,Irit.,4.5299530029296875e-06,9.5367431640625e-07
+Irit.,,4.5299530029296875e-06,9.5367431640625e-07
 Fingarprinsing.,3D-FLARE: A Touchless Full-3D Fingerprint Recognition System Based on Laser Sensing.,0.017399072647094727,0.013528823852539062
 Virtualized Packer.,Virtualized Packer.,0.029361486434936523,0.022388219833374023
 Pracsical A-Cash.,Making Physical Activity A Habit: Using Gamified Physical Activity Trackers to Sustain Behaviour.,0.012306928634643555,0.009905338287353516
@@ -2048,7 +2048,7 @@ Iultiplicative Kaapsack Cryptosystei.,Multiplicative Knapsack Cryptosystem.,0.01
 Panasrasion Sassing.,A Text Summarizer for Newspaper Articles on Sassho-jiken.,0.007404804229736328,0.006289005279541016
 Hyparallipsic Curvas Parformanca.,Hyperelliptic Curve Cryptosystems: Closing the Performance Gap to Elliptic Curves (Update).,0.009342670440673828,0.0076100826263427734
 Rasidua Arishmasic.,Residual Networks of Residual Networks: Multilevel Residual Networks.,0.001802206039428711,0.0014431476593017578
-,Bcte.,4.76837158203125e-06,9.5367431640625e-07
+Bcte.,,4.76837158203125e-06,9.5367431640625e-07
 Nucleic Ccid.,Nucleic Acid.,0.0009334087371826172,0.0006079673767089844
 TYN Flood Cttcck.,Mitigating SYN Flooding and UDP Flooding in P4-based SDN.,0.0028352737426757812,0.0019686222076416016
 Irreducible Polyaoiial.,Irreducible Polynomial.,0.016598939895629883,0.012616395950317383
@@ -2199,7 +2199,7 @@ Ontologiet for Tcclcble Tervicet-Bcted Ubiquitout Computing.,Ontologies for Scal
 Hcndbook of Retecrch on Ubiquitout Computing Technology for Recl Time Enterpritet,Handbook of Research on Ubiquitous Computing Technology for Real Time Enterprises,0.0942695140838623,0.0613408088684082
 Busiaess Grids.,Business Grids.,0.006581306457519531,0.0051004886627197266
 Smars Isams in Raal Sima Ansarprisas.,Some Problems in Research of General Simulation Systems.,0.020569801330566406,0.015552043914794922
-,PROIISE.,1.1444091796875e-05,9.5367431640625e-07
+PROIISE.,,1.1444091796875e-05,9.5367431640625e-07
 Iultiiodal aad Federated Iateractioa.,Entity Resolution and Federated Learning get a Federated Resolution.,0.02609992027282715,0.016056299209594727
 A Focus oa Locatioa Coatext.,A Focus on Location Context.,0.008280277252197266,0.00613856315612793
 Opporsunissic Nasworks.,Opportunistic Fog for IoT: Challenges and Opportunities.,0.002421855926513672,0.0018451213836669922
@@ -2232,7 +2232,7 @@ Iicroiachiaiag.,Microinstrument contact force sensing based on cable tension usi
 Bincry Decition Dicgrcmt.,Ordered Binary Decision Diagrams in Electronic Design Automation,0.020416259765625,0.015584707260131836
 RF Pcttive IC Componentt.,RF Passive IC Components.,0.03628373146057129,0.013730764389038086
 CAD Tools for BIST/DFT aad Delay Faults.,CAD Tools for BIST/DFT and Delay Faults.,0.058188676834106445,0.03967118263244629
-,CMOT.,7.62939453125e-06,1.9073486328125e-06
+CMOT.,,7.62939453125e-06,1.9073486328125e-06
 VLSI Techaology.,VLSI Technology.,0.006213188171386719,0.0046367645263671875
 Dividers.,Dividers.,0.0042972564697265625,0.0029213428497314453
 Logic Proparsias of Sransissor Circuiss.,Logic Properties of Transistor Circuits.,0.05997061729431152,0.039971113204956055
@@ -2277,7 +2277,7 @@ Logic Synshasis wish NAND (or NOR) Gasas in Mulsi-lavals.,Logic Synthesis with N
 Desiga Autoiatioa Techaology Roadiap.,Design Automation Technology Roadmap.,0.0024442672729492188,0.0017974376678466797
 Mctk-Progrcmmcble Gcte Crrcyt.,Mask-Programmable Gate Arrays.,0.0014102458953857422,0.0010631084442138672
 Passive Coipoaeats.,Intrinsically Passive Control using Sampled Data System Passivity.,0.029772043228149414,0.01600480079650879
-,TRCM.,5.7220458984375e-06,9.5367431640625e-07
+TRCM.,,5.7220458984375e-06,9.5367431640625e-07
 Operatioaal Traascoaductaace Aiplifiers.,Operational Transconductance Amplifiers.,0.03213047981262207,0.019685029983520508
 PLL Circuitt.,Circuit Level Defences Against Fault Attacks in Pipelined NCL Circuits.,0.017644166946411133,0.005951404571533203
 Microprocettor Lcyout Method.,Microprocessor Layout Method.,0.01992321014404297,0.015047550201416016
@@ -2349,7 +2349,7 @@ The Use of Story ia Buildiag Oaliae Group Relatioaships.,The Use of Story in Bui
 Innovasions and Mosivasions in Onlina Chas.,Innovations and Motivations in Online Chat.,0.06613397598266602,0.03527212142944336
 Thifting Trendt in Evclucting the Credibility of CMC.,Shifting Trends in Evaluating the Credibility of CMC.,0.028196096420288086,0.01999187469482422
 The Uatapped Learaiag Poteatial of CIC ia Higher Educatioa.,The Untapped Learning Potential of CMC in Higher Education.,0.04653143882751465,0.021413087844848633
-,Blogt.,9.5367431640625e-06,1.1920928955078125e-06
+Blogt.,,9.5367431640625e-06,1.1920928955078125e-06
 Form and Funcsion of Masacommunicasion in CMC.,Form and Function of Metacommunication in CMC.,0.03189969062805176,0.02520751953125
 Tocicl Influence cnd Computer Medicted Communicction.,Social Influence and Computer Mediated Communication.,0.07799839973449707,0.04756450653076172
 Composing Idansisy in Onlina Inssrucsional Consaxss.,Composing Identity in Online Instructional Contexts.,0.04803466796875,0.03211188316345215
@@ -2790,7 +2790,7 @@ Dimansionalisy Raducsion.,Personal Cognitive Assistant: Personalisation and Acti
 Bioinformctic Dctcbctet.,Evolving from Bioinformatics in-the-Small to Bioinformatics in-the-Large.,0.00604557991027832,0.004782199859619141
 Software Agiag aad Rejuveaatioa.,Software Aging and Rejuvenation.,0.0031232833862304688,0.002564668655395508
 Cnclog-to-Digitcl Convertion in the Ecrly Twenty-Firtt Century.,Analog-to-Digital Conversion in the Early Twenty-First Century.,0.045803070068359375,0.03618359565734863
-,Vitucl Dctcbcte.,1.7642974853515625e-05,1.1920928955078125e-06
+Vitucl Dctcbcte.,,1.7642974853515625e-05,1.1920928955078125e-06
 Ausomasic Sass Ganarasion.,Prioritization of Basic Safety Message in DSRC Based on Distance to Danger.,0.01186370849609375,0.009019136428833008
 Large-Scale Group Collaboratioa Systeis.,Large-Scale Group Collaboration Systems.,0.07654571533203125,0.0413355827331543
 Forial Logic.,Spatial Logic + Temporal Logic = ?.,0.027124404907226562,0.015432357788085938
@@ -3251,7 +3251,7 @@ Multittcbility in Teizure Dyncmict.,Multistability in Seizure Dynamics.,0.014542
 Visual Prosshasis Subrasinal Davicas.,"Visual Prosthesis, Subretinal Devices.",0.03510117530822754,0.023877620697021484
 Hyperpolarizatioa-Activated Cyclic aucleotide-Gated Chaaaels.,Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels.,0.07281994819641113,0.047249555587768555
 Tomctotentory Protthetit.,Optimal Policies for a Multi-Echelon Inventory Problem.,0.016355514526367188,0.010979175567626953
-,BraiaIap.,1.0967254638671875e-05,1.1920928955078125e-06
+BraiaIap.,,1.0967254638671875e-05,1.1920928955078125e-06
 Slow Oscillasions and Apilapsy: Naswork Modals.,Slow Oscillations and Epilepsy: Network Models.,0.0407865047454834,0.023703336715698242
 Computctioncl Neurocnctomy: Overview.,Computational Neuroanatomy: Overview.,0.02703857421875,0.015728473663330078
 Protthetic Vition Perceptucl Effectt.,"Prosthetic Vision, Perceptual Effects.",0.042372941970825195,0.021388769149780273
@@ -3297,7 +3297,7 @@ Olfacsory Compusasion in Misral-Granula Call Circuiss.,Olfactory Computation in 
 Tpike Time Retponte Curve.,Spike Time Response Curve.,0.013733863830566406,0.008168220520019531
 Estiiatiag Iaforiatioa-Theoretic Quaatities.,Estimating Information-Theoretic Quantities.,0.03275012969970703,0.017766237258911133
 Efficient Populction Coding.,Efficient Population Coding.,0.03667569160461426,0.02525782585144043
-,BraiaIafo.,1.1205673217773438e-05,1.1920928955078125e-06
+BraiaIafo.,,1.1205673217773438e-05,1.1920928955078125e-06
 Masking and Masking Ralaasa.,Masking and Masking Release.,0.009345769882202148,0.0059185028076171875
 aoaiavasive Braia-Coiputer Iaterfaces.,Noninvasive Brain-Computer Interfaces.,0.04528641700744629,0.02737712860107422
 Q10: The Effect of Teiperature oa Ioa Chaaael Kiaetics.,Q10: The Effect of Temperature on Ion Channel Kinetics.,0.07811903953552246,0.052591800689697266
@@ -3390,7 +3390,7 @@ Determinittic Recction-Diffution Timulctort.,Deterministic Reaction-Diffusion Si
 Accumulasion of Avidanca in Dacision Making.,Accumulation of Evidence in Decision Making.,0.048004150390625,0.03342294692993164
 Markov Modals of Ion Channals.,Markov Models of Ion Channels.,0.037455081939697266,0.021908044815063477
 Local Fiald Posansial and Daap Brain Ssimulasion (DBS).,Local Field Potential and Deep Brain Stimulation (DBS).,0.049347877502441406,0.03827810287475586
-,Cerccl Tyttem.,1.5497207641601562e-05,1.430511474609375e-06
+Cerccl Tyttem.,,1.5497207641601562e-05,1.430511474609375e-06
 Computctioncl Modelt of Mcmmclicn Retpirctory CPG.,Computational Models of Mammalian Respiratory CPG.,0.014021873474121094,0.010855436325073242
 Ietric Space Aaalysis of aeural Iaforiatioa Flow.,Metric Space Analysis of Neural Information Flow.,0.044313669204711914,0.027588844299316406
 Neuromodulction in Tmcll Networkt.,Neuromodulation in Small Networks.,0.015380859375,0.012244224548339844
@@ -3712,7 +3712,7 @@ Aushansicasion Mashods.,Use of imputation methods at current occasion in two-occ
 Broadbaad Iateraet Access.,Broadband Internet Access.,0.025920867919921875,0.015493392944335938
 Firawalls: Chackpoins Sacurisy Raviaw.,Firewalls: Checkpoint Security Review.,0.0029113292694091797,0.001844644546508789
 Ad Hoc aetworks: GPS-Based Routiag Algorithi.,Ad Hoc Networks: GPS-Based Routing Algorithm.,0.03341078758239746,0.01888442039489746
-,Tmcrtccrdt.,1.049041748046875e-05,1.1920928955078125e-06
+Tmcrtccrdt.,,1.049041748046875e-05,1.1920928955078125e-06
 Iatelligeat Ageats: aetwork Security.,Intelligent Agents: Network Security.,0.009873628616333008,0.0077288150787353516
 Wireless aetworks: VoIP Service.,Wireless Networks: VoIP Service.,0.011924266815185547,0.007636547088623047
 NARC Corporasion: Complianca.,NERC Corporation: Compliance.,0.01812267303466797,0.008700847625732422
@@ -3770,7 +3770,7 @@ Foransics and Lagal Procaadings.,Forensics and Legal Proceedings.,0.056097269058
 Voica Communicasions: Voica-ovar-Insarnas (VoI).,Voice Communications: Voice-over-Internet (VoI).,0.02275395393371582,0.014191389083862305
 Fuzzy Iodels for Iatrusioa Detectioa.,Fuzzy Models for Intrusion Detection.,0.025842666625976562,0.016132116317749023
 Career Iaaageieat.,Perceived Career Success and Career Advancement of Women: Challenges in the Indian IT Industry.,0.0005815029144287109,0.00023293495178222656
-,Gtm.,3.0994415283203125e-06,7.152557373046875e-07
+Gtm.,,3.0994415283203125e-06,7.152557373046875e-07
 IEEE 802.16 Wirelett Metropolitcn Crec Networkt (WMCNt).,IEEE 802.16 Wireless Metropolitan Area Networks (WMANs).,0.019428014755249023,0.010730266571044922
 P2P: Overlcy Multicctt.,P2P: Overlay Multicast.,0.014260292053222656,0.011271953582763672
 Firewall Architectures: Viruses aad Woris.,Firewall Architectures: Viruses and Worms.,0.008392095565795898,0.0062656402587890625
@@ -3814,7 +3814,7 @@ Ulsra-Widaband: Applicasions.,Ultra-Wideband: Applications.,0.012187719345092773
 Wiralass Nasworks: Arror Rasilians Vidao Sransmission.,A Retransmission Method for Improving Transmission Reliability in One-way Transmission.,0.08060240745544434,0.04035329818725586
 Locction-Bcted Tervicet.,A Linked Term Bank of Copyright-Related Terms.,0.010893821716308594,0.008052349090576172
 Dasa Accass Consrols: Sansisiva or Crisical.,Data Access Controls: Sensitive or Critical.,0.021668195724487305,0.01573014259338379
-,Ttegcnogrcphy.,1.9073486328125e-05,9.5367431640625e-07
+Ttegcnogrcphy.,,1.9073486328125e-05,9.5367431640625e-07
 Audising: Salf-Hacking.,Auditing: Self-Hacking.,0.012361764907836914,0.010151863098144531
 Persoaal Accouatability: Corporate Iaforiatioa Security Policy.,Personal Accountability: Corporate Information Security Policy.,0.06357836723327637,0.0426027774810791
 Iasider Threats: Systei aad Applicatioa Weakaesses.,Insider Threats: System and Application Weaknesses.,0.03840327262878418,0.027556180953979492
@@ -3974,7 +3974,7 @@ Covert Chaaaels: Aaalysis aad Recoiieadatioas.,Covert Channels: Analysis and Rec
 Wirelett Tentor Networkt (WTNt): Tecure Locclizction.,Wireless Sensor Networks (WSNs): Secure Localization.,0.026393413543701172,0.01703023910522461
 Idansisy Managamans Syssams: Componanss.,Identity Management Systems: Components.,0.02442646026611328,0.01779484748840332
 Ssandards.,Micro standards-building standards.,0.010017156600952148,0.004515886306762695
-,Adga.,5.245208740234375e-06,1.9073486328125e-06
+Adga.,,5.245208740234375e-06,1.9073486328125e-06
 Iiage aad Video Coiiuaicatioa: Source-Chaaael Distortioa Iodeliag.,Image and Video Communication: Source-Channel Distortion Modeling.,0.05214357376098633,0.027152061462402344
 Redundcnt Crrcyt of Independent Ditkt (RCID).,Redundant Arrays of Independent Disks (RAID).,0.055083513259887695,0.030713319778442383
 Hcckert: Cttcckt cnd Defentet.,Team Composition for Perimeter Defense with Patrollers and Defenders.,0.010423660278320312,0.00750732421875
@@ -4221,7 +4221,7 @@ Iobile Security: Gaie Theory.,Mobile Security: Game Theory.,0.034265995025634766
 Crypsography.,Post-Quantum Crystography: A combination of Post-Quantum Cryptography and Steganography.,0.007578134536743164,0.005539417266845703
 Haalsh Insuranca Porsabilisy and Accounsabilisy Acs (HIPAA): Sacurisy Raquiramanss.,Health Insurance Portability and Accountability Act (HIPAA): Security Requirements.,0.027737855911254883,0.011859655380249023
 Applicasion Sacurisy: World Wida Wab.,Application Security: World Wide Web.,0.009162187576293945,0.004626274108886719
-,Umss.,5.7220458984375e-06,1.1920928955078125e-06
+Umss.,,5.7220458984375e-06,1.1920928955078125e-06
 Eveat Iaaageieat.,Caveat venditor.,0.00018739700317382812,8.058547973632812e-05
 Corporcte Tecurity: IT Orgcnizction.,Corporate Security: IT Organization.,0.009299039840698242,0.006548643112182617
 Privacy: Healthcare Iadustry.,Privacy: Healthcare Industry.,0.05929684638977051,0.025495052337646484
@@ -4892,7 +4892,7 @@ Iultivariate Outliers.,Multivariate Outliers.,0.027605533599853516,0.01237869262
 Akaika's Informasion Crisarion.,Akaike's Information Criterion.,0.0041675567626953125,0.0032072067260742188
 Dummy Vcricblet.,Dummy Variables.,0.0001423358917236328,7.2479248046875e-05
 Condisional Axpacsasion and Probabilisy.,Self-Conditional Probabilities and Probabilistic Interpretations of Belief Functions.,0.05720829963684082,0.027108430862426758
-,Rcnkt.,8.344650268554688e-06,1.1920928955078125e-06
+Rcnkt.,,8.344650268554688e-06,1.1920928955078125e-06
 Divertity.,On Protocol Divertibility.,0.005278110504150391,0.0041353702545166016
 Ganaralizad Linaar Modals.,Linear Models are Most Favorable among Generalized Linear Models.,0.009045600891113281,0.006420612335205078
 Rasponsa Surfaca Mashodology.,Response Surface Methodology.,0.04180550575256348,0.021435976028442383
@@ -4993,7 +4993,7 @@ Saddlepoiat Approxiiatioas.,Saddlepoint Approximations.,0.002723217010498047,0.0
 Geaeralized Weibull Distributioas.,Generalized Weibull Distributions.,0.01490163803100586,0.011603355407714844
 Compcrcbility of Ttctittict.,Compcrypt-Lightweight ANS-Based Compression and Encryption.,2.956390380859375e-05,3.910064697265625e-05
 Residuals.,Least Squares Residuals and Minimal Residual Methods.,0.00930166244506836,0.0048792362213134766
-,Kendcll't Tcu.,1.4066696166992188e-05,9.5367431640625e-07
+Kendcll't Tcu.,,1.4066696166992188e-05,9.5367431640625e-07
 Method Compcriton Ttudiet.,Method Comparison Studies.,0.012832880020141602,0.010807514190673828
 Salacsion of Appropriasa Ssasissical Mashods in Davaloping Counsrias.,Selection of Appropriate Statistical Methods in Developing Countries.,0.06004953384399414,0.04550886154174805
 Centrcl Limit Theoremt.,Central Limit Theorems.,0.02879929542541504,0.01851058006286621
@@ -5109,7 +5109,7 @@ Naswork Modals in Probabilisy and Ssasissics.,Encoding Probabilistic Causal Mode
 Harmonic Maan.,Harmonic Maps and Biharmonic Maps.,0.017744779586791992,0.010845422744750977
 Bayasian vs. Classical Poins Assimasion: A Comparasiva Ovarviaw.,Bayesian vs. Classical Point Estimation: A Comparative Overview.,0.06403446197509766,0.047872066497802734
 Role of Statistics ia Advaaciag Quaatitative Educatioa.,Role of Statistics in Advancing Quantitative Education.,0.10431718826293945,0.058568477630615234
-,Metc-Cnclytit.,1.7404556274414062e-05,1.6689300537109375e-06
+Metc-Cnclytit.,,1.7404556274414062e-05,1.6689300537109375e-06
 Approxiiatioas to Distributioas.,To Distort or Not to Distort: Distance Cartograms in the Wild.,0.005778074264526367,0.0040242671966552734
 Causal Diagrams.,Causal Diagrams.,0.029712677001953125,0.017478466033935547
 Cpproximctiont for Dentitiet of Tufficient Ettimctort.,On P-compatible hybrid identities and hyperidentities.,0.02989029884338379,0.023686647415161133
@@ -5281,7 +5281,7 @@ Optimclity cnd Robuttnett in Ttctitticcl Forecctting.,Optimality and Robustness 
 Ccnoniccl Cnclytit cnd Mecturet of Cttociction.,"Hypercanonicity, Extensive Canonicity, Canonicity and Strong Completeness of Intermediate Propositional Logics.",0.00781393051147461,0.006212711334228516
 Fuzzy Sets: Aa Iatroductioa.,"On Fuzzy Sets Convolution, Fuzzy Lipschitz Sets and Triangular Fuzzy Sets of Rank p.",0.020502328872680664,0.016046524047851562
 Boosssrap Mashods.,Bootstrap Methods.,0.0031528472900390625,0.0025594234466552734
-,Tpectrcl Cnclytit.,1.7642974853515625e-05,1.1920928955078125e-06
+Tpectrcl Cnclytit.,,1.7642974853515625e-05,1.1920928955078125e-06
 Cornith-Fither Expcntiont.,Cornish-Fisher Expansions.,0.007181644439697266,0.0054111480712890625
 Hodget-Lehmcnn Ettimctort.,Hodges-Lehmann Estimators.,0.0002014636993408203,9.846687316894531e-05
 Saiple Size Deteriiaatioa.,Sample Size Determination.,0.01761627197265625,0.013244390487670898
@@ -5647,7 +5647,7 @@ Ulsralow-Powar Implansabla Alacsronics.,Ultralow-Power Implantable Electronics.,
 Businass Consinuisy Planning.,Modelling the Adaptation of Business Continuity Planning by Businesses Using Neural Networks.,0.04043722152709961,0.02520012855529785
 Oa Siiulatioa of Siiuliak&reg; Iodels for Iodel-Based Desiga.,On Simulation of Simulink&reg; Models for Model-Based Design.,0.041838884353637695,0.025539636611938477
 Optiiizatioa Techaiques for Circuit Desiga Applicatioas.,Optimization Techniques for Circuit Design Applications.,0.04481792449951172,0.02142930030822754
-,Tmcrt Ccrdt.,1.239776611328125e-05,9.5367431640625e-07
+Tmcrt Ccrdt.,,1.239776611328125e-05,9.5367431640625e-07
 Cpproximction Clgorithmt cnd Clgorithm Mechcnitm Detign.,Approximation Algorithms and Algorithm Mechanism Design.,0.010036706924438477,0.007719755172729492
 Basic Mashodologias and Applicasions.,Basic Methodologies and Applications.,0.04086899757385254,0.023087263107299805
 Larga-Scala Global Placamans.,Teaching Global Software Engineering by Simulating a Global Project in the Classroom.,0.034459829330444336,0.01626276969909668
@@ -5691,7 +5691,7 @@ Digisal Wasarmarking.,Embedding Watermarking in Malaysia Halal Logo Using Spread
 Wirelett Tentor Networkt.,Inventor Networks.,0.009421110153198242,0.007977485656738281
 Wirelett Communicction cnd Mobile Computing.,Tutorial IND1A: NeXperia - A Versatile Configurable Platform for Home and Mobile Computing.,0.022974014282226562,0.018230438232421875
 Greedy Algorithis for Ietric Facility Locatioa Probleis.,Greedy Algorithms for Metric Facility Location Problems.,0.027916669845581055,0.017200708389282227
-,Plccement.,1.0728836059570312e-05,9.5367431640625e-07
+Plccement.,,1.0728836059570312e-05,9.5367431640625e-07
 Rip-Up aad Reroute.,Rip-Up and Reroute.,0.0013573169708251953,0.0009250640869140625
 Multiple Cccett Protocolt cnd Tcheduling Clgorithmt for Multiple Chcnnel Wirelett Networkt.,Multiple Access Protocols and Scheduling Algorithms for Multiple Channel Wireless Networks.,0.03768205642700195,0.025885820388793945
 Mulsidimansional Packing Problams.,Multidimensional Packing Problems.,0.02112293243408203,0.015956401824951172
@@ -6165,7 +6165,7 @@ Opannass and Insaroparabilisy in Mobila Middlawara.,Openness and Interoperabilit
 Haadbook of Scheduliag - Algorithis Iodels aad Perforiaace Aaalysis.,"Handbook of Scheduling - Algorithms, Models, and Performance Analysis.",0.020355701446533203,0.015854597091674805
 Process Algebra.,On Kleene Algebra vs. Process Algebra.,0.014979839324951172,0.00599217414855957
 Twcrm Intelligence.,Intelligence Quotient and Intelligence Grade of Artificial Intelligence.,0.029973506927490234,0.021516799926757812
-,Tpcm Wcrt.,1.1682510375976562e-05,9.5367431640625e-07
+Tpcm Wcrt.,,1.1682510375976562e-05,9.5367431640625e-07
 Hissograms Wavalass Ssraams and Approximasion.,Programs as Causal Models: Speculations on Mental Programs and Mental Representation.,0.04342961311340332,0.032489776611328125
 Power-Cwcre Modeling cnd Cutonomic Mcncgement Frcmework for Dittributed Computing Tyttemt.,Power-Aware Modeling and Autonomic Management Framework for Distributed Computing Systems.,0.06188559532165527,0.04300260543823242
 Finding Mott Vitcl Edget in c Grcph.,Finding Most Vital Edges in a Graph.,0.028988361358642578,0.020308971405029297
@@ -6176,7 +6176,7 @@ Bliad Detectioa of Stegaaographic Coateat ia Digital Iiages Usiag Cellular Autoi
 A Look at RFID Security.,A Look at RFID Security.,0.008156299591064453,0.0057222843170166016
 Large-Scale Regular Expressioa Iatchiag oa FPGA.,Large-Scale Regular Expression Matching on FPGA.,0.08488678932189941,0.049134254455566406
 Eye Trccking in Virtucl Environmentt.,Messy Work in Virtual Worlds: Exploring Discovery and Synthesis in Virtual Teams.,0.023145437240600586,0.01128244400024414
-,Legcl Ittuet.,2.2649765014648438e-05,1.6689300537109375e-06
+Legcl Ittuet.,,2.2649765014648438e-05,1.6689300537109375e-06
 Aaoayious Coiiuaicatioa.,A Study of Analogical Density in Various Corpora at Various Granularity.,0.007523059844970703,0.005582094192504883
 Coatext-Aware Iobile Coiputiag.,Extendible Context-Aware Service System For Mobile Computing.,0.025182008743286133,0.013170242309570312
 Petri Nett for Dyncmic Event-Driven Tyttem Modeling.,Petri Nets for Dynamic Event-Driven System Modeling.,0.058252811431884766,0.028252124786376953
@@ -6462,7 +6462,7 @@ Grcph Drcwing for Dctc Cnclytict.,Graph Drawing for Data Analytics.,0.0091032981
 Fundamansal Algorishms and Prosocols for Wiralass Nasworking and Mobila Compusing.,Fundamental Algorithms and Protocols for Wireless Networking and Mobile Computing.,0.0850834846496582,0.0635380744934082
 Graph Drawiag aad Cartography.,Graph Drawing and Cartography.,0.0147247314453125,0.010210275650024414
 Vition-Bcted Hcnd Getture Recognition for Humcn-Computer Intercction.,Vision-Based Hand Gesture Recognition for Human-Computer Interaction.,0.06042742729187012,0.04784131050109863
-,PIGCLE.,9.5367431640625e-06,1.430511474609375e-06
+PIGCLE.,,9.5367431640625e-06,1.430511474609375e-06
 Modaling and Compusasional Lishography.,Modeling and Computational Lithography.,0.031109094619750977,0.023578166961669922
 Iiddleware for Wearable Coiputiag.,Middleware for Wearable Computing.,0.045360565185546875,0.027168989181518555
 Routiag aad Traversal via Locatioa Awareaess ia Ad Hoc aetworks.,Routing and Traversal via Location Awareness in Ad Hoc Networks.,0.05734896659851074,0.04075932502746582
@@ -6549,7 +6549,7 @@ Crypsographic Sransisions.,Histographic Steganographic System.,0.035041093826293
 Sha Rola of Informasion Sacurisy in sha Ansarprisa Risk Managamans Ssrucsura.,Beyond Technical Aspects of Information Security: Risk Culture as a Success Factor for IT Risk Management.,0.03256344795227051,0.024680614471435547
 Locasion Privacy Prosacsion in Mobila Wiralass Nasworks.,Semantic Location Privacy Protection Based on Privacy Preference for Road Network.,0.04724574089050293,0.025153636932373047
 Arishmasic of Allipsic Curvas.,High Rank Elliptic Curves with Torsion Z/4Z Induced by Kihara's Elliptic Curves.,0.007847309112548828,0.005214691162109375
-,Indax.,7.3909759521484375e-06,7.152557373046875e-07
+Indax.,,7.3909759521484375e-06,7.152557373046875e-07
 The Practical Haadbook of Iateraet Coiputiag.,The Practical Handbook of Internet Computing.,0.03509163856506348,0.01902151107788086
 Floorplanning.,Floorplanning challenges in early chip planning.,0.01197052001953125,0.007020473480224609
 Tcheduling cnd Retcheduling with Ute of Cellulcr Cutomctc.,Scheduling and Rescheduling with Use of Cellular Automata.,0.030111312866210938,0.021657228469848633
@@ -6666,7 +6666,7 @@ Iobile Iiddleware for Autoiotive Applicatioas.,Mobile Middleware for Automotive 
 Index.,"References, Author Index, Syntax Index, Subject Index.",0.0034520626068115234,0.0026657581329345703
 Maka Sacurisy Pars of Your Company's DNA.,Make Security Part of Your Company's DNA.,0.018938064575195312,0.013504266738891602
 Hackar Sools and Sachniquas.,Sustaining Partnerships between Schools and Industry: A Minerals and Energy Case.,0.00743865966796875,0.0057010650634765625
-,BaaHiva.,8.58306884765625e-06,7.152557373046875e-07
+BaaHiva.,,8.58306884765625e-06,7.152557373046875e-07
 Iasight iato Iatrusioa Preveatioa Systeis.,Insight into Intrusion Prevention Systems.,0.012976884841918945,0.007588624954223633
 Energy-Tcving Techniquet for Ditk Ttorcge Tyttemt.,Energy-Saving Techniques for Disk Storage Systems.,0.021053791046142578,0.014525413513183594
 Multidomcin Modeling with Modelicc.,Multidomain Modeling with Modelica.,0.022494792938232422,0.01746392250061035
@@ -6786,7 +6786,7 @@ Introduction Overview cnd Notction.,"Introduction, Overview, and Notation.",0.03
 Cott-Efficient Multicctt Routing in Cd Hoc cnd Tentor Networkt.,Cost-Efficient Multicast Routing in Ad Hoc and Sensor Networks.,0.0551300048828125,0.03815960884094238
 Distributed Algorithis for Soie Fuadaieatal Probleis ia Ad Hoc Iobile Eaviroaieats.,Distributed Algorithms for Some Fundamental Problems in Ad Hoc Mobile Environments.,0.04144144058227539,0.026101350784301758
 Sarbanas-Oxlay Complianca.,Sarbanes-Oxley Compliance.,0.009714365005493164,0.005255460739135742
-,DeeDT NG.,9.775161743164062e-06,9.5367431640625e-07
+DeeDT NG.,,9.775161743164062e-06,9.5367431640625e-07
 A Unifiad Viaw on Masahaurissics and Shair Hybridizasion.,A Unified View on Metaheuristics and Their Hybridization.,0.05827736854553223,0.03874015808105469
 aaie Resolutioa aad Service Discovery oa the Iateraet aad ia Ad Hoc aetworks.,Name Resolution and Service Discovery on the Internet and in Ad Hoc Networks.,0.08605718612670898,0.05421876907348633
 Nonparamasric Mixad Mambarship Modals.,Nonparametric Mixed Membership Models.,0.020899295806884766,0.013285636901855469
@@ -6835,7 +6835,7 @@ Three Dimentioncl Videot.,Three Dimensional Videos.,0.03449416160583496,0.018182
 Temcntict Ttcndcrdt cnd Recommendctiont.,On the Pricing of Recommendations and Recommending Strategically,0.04059553146362305,0.01930546760559082
 Iultiiedia Processiag.,The Mpact (tm) Media Processor Redefines the Multimedia PC.,0.010690927505493164,0.008768558502197266
 Iultiiedia Persoaalizatioa.,Multimedia Personalization.,0.021460533142089844,0.015454530715942383
-,JPAG.,6.198883056640625e-06,9.5367431640625e-07
+JPAG.,,6.198883056640625e-06,9.5367431640625e-07
 Data Iodeliag Iultiiedia.,A Solution for Data Inconsistency in Data Integration.,0.0025250911712646484,0.00194549560546875
 Iultiiedia Eacryptioa.,Stateful identity-based encryption scheme: faster encryption and decryption.,0.01520848274230957,0.009478330612182617
 Mime Typet.,Mime Types.,0.004800081253051758,0.003558635711669922
@@ -7192,7 +7192,7 @@ Indexing Three Dimentioncl Tcenet.,Indexing Three Dimensional Scenes.,0.03580021
 Long Durasion Consinuous Madia Rasriaval.,Long Duration Continuous Media Retrieval.,0.04654669761657715,0.027971506118774414
 Seiaatic Sports Video Aaalysis.,Semantic Sports Video Analysis.,0.029512882232666016,0.01685357093811035
 User Iateractioa.,"Measuring User Participation, User Involvement, and User Attitude.",0.009787321090698242,0.007636070251464844
-,Hcptict.,9.5367431640625e-06,9.5367431640625e-07
+Hcptict.,,9.5367431640625e-06,9.5367431640625e-07
 Block Mctching.,Improved Block Motion Estimation Using Block Frequency Warping.,0.014084815979003906,0.01056981086730957
 Privasa-Kay Crypsosyssam.,Private-Key Cryptosystem.,0.008661746978759766,0.008322954177856445
 Portals.,Multi Device Portals (Multi Device Portals).,0.002579212188720703,0.0016834735870361328
@@ -7498,7 +7498,7 @@ Ssoraga Sachnologias for Big Dasa.,Scaling Big Data Platform for Big Data Pipeli
 Multidimentioncl Procett Cnclytict.,Multidimensional data in multidimensional scaling using the analytic network process.,0.02850961685180664,0.021406888961791992
 Onlina Machina Laarning Algorishms ovar Dasa Ssraams.,Online Machine Learning Algorithms over Data Streams.,0.02274918556213379,0.013810396194458008
 Tabular Coiputatioa.,Tabular Computation.,0.0056040287017822266,0.0030786991119384766
-,Iadexiag.,9.5367431640625e-06,9.5367431640625e-07
+Iadexiag.,,9.5367431640625e-06,9.5367431640625e-07
 And-so-And Banchmark.,Benchmarking of Web Services Plattforms - An Evaluation with the TPC-APP Benchmark.,0.008628368377685547,0.003477811813354492
 Grcph Query Procetting.,A Graph Query Language and Its Query Processing.,0.026181936264038086,0.014478206634521484
 Tpctiotemporcl Dctc: Trcjectoriet.,Spatiotemporal trajectory clustering: A clustering algorithm for spatiotemporal data.,0.017457246780395508,0.011184930801391602
@@ -7593,7 +7593,7 @@ Cloud Computing for Big Dctc Cnclytit.,Cloud Computing for Big Data Analysis.,0.
 Parallal Join Algorishms in MapRaduca.,Parallel Join Algorithms in MapReduce.,0.022714853286743164,0.017004013061523438
 Hcrdwcre-Cttitted Trcntcction Procetting.,Shape calculus for fitted and unfitted discretizations: domain transformations vs. boundary-face dilations.,0.016202688217163086,0.010135173797607422
 Privccy-Preterving Dctc Cnclytict.,Privacy-Preserving Data Analytics.,0.01619410514831543,0.008585929870605469
-,Dctc Lcke.,9.5367431640625e-06,9.5367431640625e-07
+Dctc Lcke.,,9.5367431640625e-06,9.5367431640625e-07
 Visualizatioa.,An approach to exascale visualization: Interactive viewing of in-situ visualization.,0.014528512954711914,0.007441997528076172
 TPCx-HS.,TPCx-HS.,1.3828277587890625e-05,3.457069396972656e-05
 Cheap Data Aaalytics oa Cold Storage.,Cheap Data Analytics on Cold Storage.,0.03926348686218262,0.02099323272705078
@@ -7656,7 +7656,7 @@ Big Data aad Recoiieadatioa.,Big Data and the Attention Economy: Big Data (Ubiqu
 Query Processiag: Coiputatioaal Geoietry.,Query Processing: Computational Geometry.,0.016525745391845703,0.010406494140625
 Truth Discovery.,Truth Discovery.,0.02597808837890625,0.012414693832397461
 Pcttern Recognition.,Pattern Synthesis for Nonparametric Pattern Recognition.,0.010315179824829102,0.00776982307434082
-,Hiva.,5.4836273193359375e-06,7.152557373046875e-07
+Hiva.,,5.4836273193359375e-06,7.152557373046875e-07
 Ssraam Window Aggragasion Samansics and Opsimizasion.,Stream Window Aggregation Semantics and Optimization.,0.0358433723449707,0.023518085479736328
 Big Data Eaables Labor Iarket Iatelligeace.,Big Data Enables Labor Market Intelligence.,0.02745509147644043,0.01690077781677246
 Big Dasa in Ausomosiva Indussry.,Big Data in Automotive Industry.,0.026007890701293945,0.017124176025390625
@@ -7687,7 +7687,7 @@ TciDB.,SciDB.,1.2159347534179688e-05,3.0517578125e-05
 Wildfire: HTAP for Big Data.,Wildfire: HTAP for Big Data.,0.02665877342224121,0.017287731170654297
 Deep Learaiag oa Big Data.,Green Big Data - eine Green IT/Green IS Perspektive auf Big Data.,0.029559850692749023,0.013583898544311523
 Nasiva Dissribusad RDF Syssams.,Native Distributed RDF Systems.,0.003097057342529297,0.0023822784423828125
-,YCTB.,5.245208740234375e-06,9.5367431640625e-07
+YCTB.,,5.245208740234375e-06,9.5367431640625e-07
 Raasoning as Scala.,Moral Reasoning as Probability Reasoning.,0.02147698402404785,0.012140750885009766
 Siiilarity Sketchiag.,Similarity Sketching.,0.024626493453979492,0.011410713195800781
 Traasactioas ia Iassively Iultiplayer Oaliae Gaies.,Player Guild Dynamics and Evolution in Massively Multiplayer Online Games.,0.034142255783081055,0.01847243309020996
@@ -7700,7 +7700,7 @@ Privacy-Preserviag Record Liakage.,Privacy-Preserving Record Linkage.,0.04760670
 Big Dctc Cpplicction in Mcnufccturing Induttry.,Monetizing Industry 4.0: Design Principles for Subscription Business in the Manufacturing Industry.,0.024914026260375977,0.016701221466064453
 Queue Iiaiag.,Weight Queue Dynamic Active Queue Management Algorithm.,0.001753091812133789,0.0012865066528320312
 Visualizatioa Techaiques.,Visualization Patterns: A Context-Sensitive Tool to Evaluate Visualization Techniques.,0.02726292610168457,0.016661643981933594
-,ASL.,5.9604644775390625e-06,9.5367431640625e-07
+ASL.,,5.9604644775390625e-06,9.5367431640625e-07
 Workflow Tyttemt for Big Dctc Cnclytit.,Workflow Systems for Big Data Analysis.,0.023873090744018555,0.01350545883178711
 Scala.,Scala.,0.004185199737548828,0.0034902095794677734
 Visualizing Samansic Dasa.,Visualizing Forensic Data: Evidence Guidelines (Part 1).,0.02431654930114746,0.01459503173828125
@@ -7866,7 +7866,7 @@ Growth Fuactioa.,Crop Growth Condition Assessment at County Scale Based on Heat-
 Quaatitative Attribute.,Quantitative Attribute.,0.034517765045166016,0.021923303604125977
 Coastraiaed Clusteriag.,Improved Unsupervised Clustering over Watershed-Based Clustering.,0.02655315399169922,0.013769865036010742
 Algorishm Avaluasion.,Rhythmic Persuasion Model: Shifting from Phatic to Persuasion.,0.009577035903930664,0.007822751998901367
-,Digrcpht.,8.58306884765625e-06,1.430511474609375e-06
+Digrcpht.,,8.58306884765625e-06,1.430511474609375e-06
 Data Set.,Data Set.,0.00531768798828125,0.004097461700439453
 Cbduction.,Abduction and Abductive Logic Programming.,0.00026917457580566406,0.00011372566223144531
 Alman Naswork.,Elman Network.,0.001848459243774414,0.00141143798828125
@@ -7902,7 +7902,7 @@ Cross-Laaguage Iaforiatioa Retrieval.,Cross-language Cross-Language Mining and R
 Mcrkov Chcin Monte Ccrlo.,Putting Markov Chains Back into Markov Chain Monte Carlo.,0.013816595077514648,0.007930755615234375
 Kohonan Maps.,Kohonen Maps.,0.003717660903930664,0.0026068687438964844
 City Block Distaace.,City Block Distance.,0.0207827091217041,0.012483835220336914
-,RTM.,5.7220458984375e-06,1.1920928955078125e-06
+RTM.,,5.7220458984375e-06,1.1920928955078125e-06
 Time Teriet.,Real-Time Terahertz Characterization of Minor Defects by the YOLOX-MSA Network.,0.0014667510986328125,0.0011394023895263672
 Tcble Pcrting.,Reliable Physical-Layer Network Coding Supporting Real Applications.,0.0076694488525390625,0.006519317626953125
 Raadoiized Decisioa Rule.,Distributed Decisionmaking with Constrained Decisionmakers: A Case Study.,0.026204586029052734,0.015729188919067383
@@ -7921,14 +7921,14 @@ aoastaadard Criteria ia Evolutioaary Learaiag.,Nonstandard Criteria in Evolution
 Rewcrd Thcping.,Dual Iterative Hard Thresholding.,0.002097606658935547,0.0015897750854492188
 Immunocompusing.,Immunocomputing.,0.007151365280151367,0.005910158157348633
 ECOC.,ECOC.,8.344650268554688e-06,1.6927719116210938e-05
-,TDRI.,2.6226043701171875e-06,7.152557373046875e-07
+TDRI.,,2.6226043701171875e-06,7.152557373046875e-07
 Explaaatioa.,ExplainFix: Explainable spatially fixed deep networks.,0.002155780792236328,0.001895904541015625
 Dyaaiic Bayesiaa aetwork.,Being Bayesian About Network Structure. A Bayesian Approach to Structure Discovery in Bayesian Networks.,0.018787860870361328,0.005440950393676758
 Inductive Inference Rulet.,Inductive Inference Rules.,0.04251813888549805,0.02742481231689453
 Axampla-Basad Programming.,Example-Based Programming.,0.014403581619262695,0.012587308883666992
 Compcrcble Corput.,XCorpus - An executable Corpus of Java Programs.,0.011816978454589844,0.007682323455810547
 Bcyeticn Nonpcrcmetric Modelt.,Bayesian Nonparametric Models.,0.009606599807739258,0.005519866943359375
-,Q-Lecrning.,1.0967254638671875e-05,1.6689300537109375e-06
+Q-Lecrning.,,1.0967254638671875e-05,1.6689300537109375e-06
 Inducsiva Infaranca Rulas.,Signatures and Induction Principles for Higher Inductive-Inductive Types.,0.00447535514831543,0.0037698745727539062
 Traasfer Learaiag.,Transfer Learning Based Data Feature Transfer for Fault Diagnosis.,0.009160995483398438,0.0058977603912353516
 Privacy-Ralasad Aspacss and Sachniquas.,Privately Querying Privacy: Privacy Estimation with Guaranteed Privacy of User and Database Party.,0.02299785614013672,0.010842561721801758
@@ -7947,7 +7947,7 @@ Object Coasolidatioa.,Object Consolidation.,0.011036157608032227,0.0054094791412
 Iterctive Clcttificction.,Productive Coreflective Classes in Top.,0.008712053298950195,0.007241249084472656
 Graady Saarch Approach of Graph Mining.,Greedy Search Approach of Graph Mining.,0.03490400314331055,0.023418426513671875
 Evaluatioa Set.,Data Set.,0.0009796619415283203,0.0007214546203613281
-,Ca2.,4.0531158447265625e-06,9.5367431640625e-07
+Ca2.,,4.0531158447265625e-06,9.5367431640625e-07
 Connacsions Baswaan Inducsiva Infaranca and Machina Laarning.,Connections Between Inductive Inference and Machine Learning.,0.04622483253479004,0.03643465042114258
 Cost.,Cost.,0.0001857280731201172,7.605552673339844e-05
 Loss Funcsion.,Homography-Based Loss Function for Camera Pose Regression.,0.011542797088623047,0.00859689712524414
@@ -7976,7 +7976,7 @@ Within-Tcmple Evcluction.,Within-Sample Evaluation.,0.009927511215209961,0.00761
 Graph Mining.,Insider Threat Detection Using Stream Mining and Graph Mining.,0.014837503433227539,0.009558439254760742
 Sransfar of Knowladga Across Domains.,Transfer of Knowledge Across Domains.,0.04390859603881836,0.03007817268371582
 Relatioaal Dyaaiic Prograiiiag.,Relational Dynamic Programming.,0.01893901824951172,0.012861967086791992
-,Ockhcm't Rczor.,1.5020370483398438e-05,9.5367431640625e-07
+Ockhcm't Rczor.,,1.5020370483398438e-05,9.5367431640625e-07
 Bcyet Net.,Predictive Control Over a Dynamical Token Bucket Network.,0.0021190643310546875,0.0016086101531982422
 Lecrning with Hidden Context.,Learning with Hidden Context.,0.020670175552368164,0.012958288192749023
 DBN.,DBN.,5.4836273193359375e-06,7.62939453125e-06
@@ -8045,7 +8045,7 @@ Cuiulative Learaiag.,How Much a Model be Trained by Passive Learning Before Acti
 Conttrcined Cluttering.,Clutter Edges Detection Algorithms for Structured Clutter Covariance Matrices.,0.007980585098266602,0.00543975830078125
 Saturatioa.,Markov Chain Model for EDCA Protocol under Saturation and Non-Saturation Conditions.,0.01167917251586914,0.008351564407348633
 Faasura Waighsing.,XML Processing. No Parsing.,0.005636930465698242,0.004805088043212891
-,TDP.,5.0067901611328125e-06,7.152557373046875e-07
+TDP.,,5.0067901611328125e-06,7.152557373046875e-07
 Spai Detectioa.,On Semeai Detection in Monte-Carlo Go.,5.340576171875e-05,3.647804260253906e-05
 Stratified Cross Validatioa.,Stratified Cross Validation.,0.06755208969116211,0.039301395416259766
 Grammasical Sagging.,Grammatical Tagging.,0.02821040153503418,0.020493507385253906
@@ -8059,13 +8059,13 @@ Phase Traasitioas ia Iachiae Learaiag.,Phase Transitions in Phase Retrieval.,0.0
 ARL.,ARL.,6.4373016357421875e-06,6.67572021484375e-06
 Dacision Liss.,New Information Literacy Horizons: Making the Case for Career Information Literacy.,0.006165027618408203,0.0050508975982666016
 Arror Squarad.,Error Squared.,0.008727550506591797,0.006698131561279297
-,CUC.,4.76837158203125e-06,9.5367431640625e-07
+CUC.,,4.76837158203125e-06,9.5367431640625e-07
 Implicction.,Implicational F-Structures and Implicational Relevance Logics.,0.0067369937896728516,0.0032935142517089844
 Missing Assribusa Valuas.,Capturing Missing Tuples and Missing Values.,0.007453203201293945,0.005497455596923828
 Associasiva Rainforcamans Laarning.,Association Thesaurus Construction for Interactive Query Expansion Based on Association Rule Mining.,0.013863563537597656,0.008910179138183594
 Temi-ncive Bcyeticn Lecrning.,Semi-naive Bayesian Learning.,0.002370119094848633,0.0018706321716308594
 Cvercge-Cott Neuro-Dyncmic Progrcmming.,Average-Cost Neuro-Dynamic Programming.,0.020406484603881836,0.013200998306274414
-,TMT.,5.245208740234375e-06,1.1920928955078125e-06
+TMT.,,5.245208740234375e-06,1.1920928955078125e-06
 Tcble Extrcction from Text Documentt.,Table Extraction from Text Documents.,0.06537151336669922,0.03459429740905762
 Approxiiate Dyaaiic Prograiiiag.,On Approximate Dynamic Programming with Multivariate Splines for Adaptive Control.,0.014153003692626953,0.008797883987426758
 Epsiloa Covers.,Epsilon Covers.,0.008355140686035156,0.00449061393737793
@@ -8127,7 +8127,7 @@ Covering Clgorithm.,Covering Submonoids and Covering Codes.,0.018095970153808594
 Ieaa Absolute Deviatioa.,Mean Absolute Deviation.,0.014333486557006836,0.009464502334594727
 Basic Lamma.,Basic Laws of ROOL: an object-oriented language.,0.0027027130126953125,0.0017359256744384766
 Tqucred Error Lott.,Squared Error Loss.,0.018596649169921875,0.009935140609741211
-,CCO.,5.4836273193359375e-06,9.5367431640625e-07
+CCO.,,5.4836273193359375e-06,9.5367431640625e-07
 Modal-Basad Consrol.,A Modal-Based Real-Time Piano Synthesizer.,0.004415750503540039,0.003270864486694336
 Spacificisy.,Formal Spacification and Use Case Generation for a Mobile Telephony System.,0.012458562850952148,0.01049351692199707
 Rctio Tccle.,Reductio ad contradictionem: An Algebraic Perspective.,9.250640869140625e-05,4.220008850097656e-05
@@ -8144,7 +8144,7 @@ True Lift Iodeliag.,True Lift Modeling.,0.0009529590606689453,0.0006530284881591
 Grouping.,Uncertain Groupings: Probabilistic Combination of Grouping Data.,0.008929967880249023,0.006662607192993164
 Clotett Point.,PointNetLK: Robust &amp; Efficient Point Cloud Registration using PointNet.,0.011118173599243164,0.004925727844238281
 Ideatificatioa.,Ideation decks: a card-based design ideation tool.,0.0005364418029785156,0.0002334117889404297
-,CIT.,4.0531158447265625e-06,7.152557373046875e-07
+CIT.,,4.0531158447265625e-06,7.152557373046875e-07
 Click-Through Rate (CTR).,Click-Through Rate (CTR).,0.013307571411132812,0.008737564086914062
 Arsificial Sociasias.,"""Artificial Societies"" and the Social Sciences.",0.031229734420776367,0.01818990707397461
 Evolving Neurcl Networkt.,Evolving Influence Maximization in Evolving Networks.,0.03145146369934082,0.013926506042480469
@@ -8174,7 +8174,7 @@ Kind.,Kind.,4.124641418457031e-05,2.3603439331054688e-05
 Ualabeled Data.,Learning from Labeled and Unlabeled Data.,0.02368783950805664,0.01426243782043457
 Telf-Orgcnizing Fecture Mcpt.,Self-Organizing Feature Maps.,0.0075833797454833984,0.005736827850341797
 Hopfiald Naswork.,The Hopfian exponent of an abelian group.,0.0004456043243408203,0.0001938343048095703
-,AP.,3.337860107421875e-06,4.76837158203125e-07
+AP.,,3.337860107421875e-06,4.76837158203125e-07
 Mcrket Bctket Cnclytit.,A Virtual Market for Teaching Electronic Market Concepts in Information Systems Education.,0.001814126968383789,0.0014302730560302734
 Relctioncl.,Forest pest Occurrence Predictionca-Markov Model.,1.4781951904296875e-05,2.0742416381835938e-05
 Modularisy Dasacsion.,Use Case Driven Modularization as a Basis for Test Driven Modularization.,0.030914306640625,0.020984888076782227
@@ -8201,7 +8201,7 @@ Decition Tree.,QUBO Decision Tree: Annealing Machine Extends Decision Tree Split
 Liaear Discriiiaaat.,Linear Discriminant Analysis and Discriminative Log-linear Modeling.,0.015248298645019531,0.010857582092285156
 Negctive Correlction Lecrning.,Negative Correlation Learning.,0.04131126403808594,0.023929595947265625
 Prograiiiag by Deioastratioa.,Programming by Demonstration.,0.011590719223022461,0.008975744247436523
-,Biaaiag.,9.298324584960938e-06,1.1920928955078125e-06
+Biaaiag.,,9.298324584960938e-06,1.1920928955078125e-06
 Prograiiiag froi Traces.,TC4JPF: Using Trace Compass to Visualize JPF Traces.,0.01699209213256836,0.015085697174072266
 Possarior Probabilisy.,How Prior Probability Influences Decision Making: A Unifying Probabilistic Model.,0.04561614990234375,0.017305850982666016
 Sopic Mapping.,Topic Mapping.,0.02492499351501465,0.013936758041381836
@@ -8213,7 +8213,7 @@ Piecewise Liaear Iodels.,On Piecewise Linear Functions and Piecewise Linear Equa
 Clcute.,Dyadic execute.,1.239776611328125e-05,1.5974044799804688e-05
 Hypothetit Lcngucge.,Hypothetical reasoning method based on hypothetical cases.,0.004778385162353516,0.003000497817993164
 <i>K</i>-Way Spectral Clusteriag.,<i>K</i>-Way Spectral Clustering.,0.05993795394897461,0.0336606502532959
-,Rewcrd.,1.0728836059570312e-05,1.1920928955078125e-06
+Rewcrd.,,1.0728836059570312e-05,1.1920928955078125e-06
 Avolusionary Faasura Synshasis.,"Locutionary, Illocutionary, Perlocutionary.",0.018471240997314453,0.009753704071044922
 Connectivity.,Rainbow Connection Number and Connectivity.,0.011939764022827148,0.007478475570678711
 Diieasioaality Reductioa.,Image Reduction Using Assorted Dimensionality Reduction Techniques.,0.025829315185546875,0.013065099716186523
@@ -8231,7 +8231,7 @@ Temporcl Difference Lecrning.,Differential Temporal Difference Learning.,0.02692
 Samporal Dasa.,The Role of Temporal Elements in Temporal Databases.,0.014520406723022461,0.012349605560302734
 Divide-aad-Coaquer Learaiag.,Divide-and-Conquer Learning.,0.0055692195892333984,0.0032854080200195312
 Lecve-One-Out Crott-Vclidction.,Leave-One-Out Cross-Validation.,0.00060272216796875,0.00026106834411621094
-,RSI.,1.4781951904296875e-05,7.152557373046875e-07
+RSI.,,1.4781951904296875e-05,7.152557373046875e-07
 Siiilarity Ieasures.,Semantic text similarity using corpus-based word similarity and string similarity.,0.03296303749084473,0.018883228302001953
 Vclue Function Cpproximction.,Value Function Approximation.,0.0018405914306640625,0.001344442367553711
 Sopology of a Naural Naswork.,Topology of a Neural Network.,0.014369487762451172,0.006713390350341797
@@ -8336,7 +8336,7 @@ Immune-Intpired Computing.,Immune-Inspired Computing.,0.018835067749023438,0.012
 Directed Grcpht.,Independent Directed Triangles in a Directed Graph.,0.019952058792114258,0.013643503189086914
 Nc&iuml;ve Bcyet.,Na&iuml;ve Bayes.,0.0005176067352294922,0.00013828277587890625
 Cursa of Dimansionalisy.,Personalising organisational knowledge and organisationalising personal knowledge.,0.014763116836547852,0.012508869171142578
-,Bict.,4.5299530029296875e-06,1.1920928955078125e-06
+Bict.,,4.5299530029296875e-06,1.1920928955078125e-06
 Echo Ttcte Network.,Echo State Network.,0.005823612213134766,0.004500627517700195
 Cctive Lecrning.,How Much a Model be Trained by Passive Learning Before Active Learning?,0.006788969039916992,0.004179477691650391
 Fecture.,Access Structure.,0.006824493408203125,0.005886077880859375
@@ -8383,10 +8383,10 @@ Greedy Tecrch Cpprocch of Grcph Mining.,Greedy Search Approach of Graph Mining.,
 Relevaace Feedback.,A Study of Adaptive Relevance Feedback - UIUC TREC 2008 Relevance Feedback Experiments.,0.03144645690917969,0.00897836685180664
 Classificatioa Learaiag.,Meta Learning via Learned Loss.,0.0005052089691162109,0.00024080276489257812
 Word Sansa Discriminasion.,Learning Discriminative Affine Regions via Discriminability.,0.037104129791259766,0.021811723709106445
-,Cctcor.,9.059906005859375e-06,9.5367431640625e-07
+Cctcor.,,9.059906005859375e-06,9.5367431640625e-07
 Sass Sima.,SimLoss: Class Similarities in Cross Entropy.,0.0013010501861572266,0.0009398460388183594
 Averaged Oae-Depeadeace Estiiators.,Averaged One-Dependence Estimators.,0.034169912338256836,0.021827220916748047
-,Clctt.,1.430511474609375e-05,1.1920928955078125e-06
+Clctt.,,1.430511474609375e-05,1.1920928955078125e-06
 Sami-suparvisad Saxs Procassing.,Semi-supervised learning of hierarchical representations of molecules using neural message passing.,0.012901544570922852,0.009457588195800781
 Iadirect Reiaforceieat Learaiag.,Indirect Reinforcement Learning.,0.026872634887695312,0.01738119125366211
 Ganaralizasion Parformanca.,A Combinatorial Proof on Partition Function Parity.,0.005588054656982422,0.0038461685180664062
@@ -8395,7 +8395,7 @@ Casa.,Integration of Pervasive Platforms with iCasa.,3.5762786865234375e-06,4.05
 Relctioncl Dctc Mining.,Pattern Mining in Discrete Time Series and Application to Music Mining.,0.014156341552734375,0.00918126106262207
 CRT.,CRT.,5.7220458984375e-06,5.9604644775390625e-06
 Object Tpcce.,Improving Multiple Object Tracking With Single Object Tracking.,0.0010802745819091797,0.0007381439208984375
-,Ageat.,4.76837158203125e-06,7.152557373046875e-07
+Ageat.,,4.76837158203125e-06,7.152557373046875e-07
 Kernel Dentity Ettimction.,Online Discriminative Kernel Density Estimator With Gaussian Kernels.,0.02234625816345215,0.011225461959838867
 Labeled Data.,Learning from Labeled and Unlabeled Data.,0.024792194366455078,0.015271425247192383
 Ontology Lecrning.,Ontology Learning from Text: Why the Ontology Learning Layer Cake is not Viable.,0.012118339538574219,0.004288434982299805
@@ -8433,7 +8433,7 @@ Geaetic Attribute Coastructioa.,Linguistic Attribute Hierarchies for Multiple-At
 Relatioaal Regressioa Tree.,Modal Interval Regression Based on Spline Quantile Regression.,0.033592939376831055,0.020225048065185547
 Ttctitticcl Relctioncl Lecrning.,Incremental Relaying with Partial Relay Selection.,0.001043081283569336,0.0007908344268798828
 Ambodiad Avolusionary Laarning.,"Locutionary, Illocutionary, Perlocutionary.",0.0189211368560791,0.00994110107421875
-,Cdcboott.,1.0013580322265625e-05,9.5367431640625e-07
+Cdcboott.,,1.0013580322265625e-05,9.5367431640625e-07
 NC-Lecrning.,NC-Learning.,1.0251998901367188e-05,7.3909759521484375e-06
 Shrashold Phanomana in Laarning.,Threshold Phenomena in Learning.,0.017268896102905273,0.011654376983642578
 <i>L</i><tub>1</tub>-Dittcnce.,"A new approach to <i>L</i>-<i>T</i><sub>2</sub>, <i>L</i>-Urysohn, and <i>L</i>-completely Hausdorff axioms.",0.0016460418701171875,0.0009491443634033203
@@ -8465,7 +8465,7 @@ Collection.,Collective Relocation for Associative Distributed Collections of Obj
 Hold-One-Out Error.,Hold-One-Out Error.,0.009364604949951172,0.004237174987792969
 Gcutticn Procett Reinforcement Lecrning.,Inverse Reinforcement Learning without Reinforcement Learning.,0.03869032859802246,0.008822441101074219
 Bcndit Problem with Tide Informction.,Bandit Problem with Side Information.,0.03742861747741699,0.025445222854614258
-,Occcm't Rczor.,1.3589859008789062e-05,9.5367431640625e-07
+Occcm't Rczor.,,1.3589859008789062e-05,9.5367431640625e-07
 Prior.,Prior.,0.0028405189514160156,0.0023026466369628906
 Ieasureieat Scales.,Almost Periodic Time Scales and Almost Periodic Functions on Time Scales.,0.014124393463134766,0.009457826614379883
 Deductive Learaiag.,Deductive Learning.,0.017664670944213867,0.012583017349243164
@@ -8531,7 +8531,7 @@ Locality Seasitive Hashiag Based Clusteriag.,Locality Sensitive Hashing Based Cl
 Ganasics-Basad Machina Laarning.,Physics-Based Biometrics.,0.004178524017333984,0.0028998851776123047
 Saquansial Pradicsion.,"Humanities Computing: Essential Problems, Experimental Practice.",0.020685434341430664,0.015118837356567383
 Decisioa Trees For Regressioa.,Decision Trees For Regression.,0.0516657829284668,0.03329157829284668
-,OPUT.,6.67572021484375e-06,1.430511474609375e-06
+OPUT.,,6.67572021484375e-06,1.430511474609375e-06
 Graiiar Learaiag.,Grammar Learning.,0.0026628971099853516,0.0019142627716064453
 aeuro-Dyaaiic Prograiiiag.,Neuro-Dynamic Programming.,0.009778022766113281,0.005118846893310547
 Inducsiva Logic Programming.,Inductive Synthesis of Logic Programs and Inductive Logic Programming.,0.034636497497558594,0.021837711334228516
@@ -8583,7 +8583,7 @@ Pcttive Lecrning.,How Much a Model be Trained by Passive Learning Before Active 
 Is Iore Specific Thaa.,Is More Specific Than.,0.03531813621520996,0.016964197158813477
 Digraphs.,From Subkautz Digraphs to Cyclic Kautz Digraphs.,0.006636142730712891,0.005593299865722656
 Iarkov Chaia.,Putting Markov Chains Back into Markov Chain Monte Carlo.,0.011240720748901367,0.00594639778137207
-,Lott.,4.5299530029296875e-06,1.1920928955078125e-06
+Lott.,,4.5299530029296875e-06,1.1920928955078125e-06
 Greedy Search.,Greedy Search.,0.021392822265625,0.009575605392456055
 Group Dasacsion.,Group Process &amp; Trust in Group Discussion.,0.01984119415283203,0.014112710952758789
 Clcttificction.,Shared Bottleneck Detecction Based on Trend Line Regression for Multipath Transmission.,1.4543533325195312e-05,2.5033950805664062e-05
@@ -8652,7 +8652,7 @@ Logic of Geaerality.,Logic of Generality.,0.042514801025390625,0.033280134201049
 Mulsi-objacsiva Opsimizasion.,Quasi-objective nonlinear principal component analysis.,0.011820554733276367,0.00889444351196289
 Text Visualizatioa.,Text Visualization for Visual Text Analytics.,0.028628826141357422,0.0182650089263916
 Nas Lifs Modaling.,HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning.,0.019451379776000977,0.015894651412963867
-,Metclecrning.,1.4066696166992188e-05,9.5367431640625e-07
+Metclecrning.,,1.4066696166992188e-05,9.5367431640625e-07
 Generclizction Boundt.,G2R Bound: A Generalization Bound for Supervised Learning from GAN-Synthetic Data.,0.022696495056152344,0.012969493865966797
 Adabooss.,Adaboost.,0.0001494884490966797,4.696846008300781e-05
 Markov Naswork.,Stationary Markov Nash Equilibria for Nonzero-Sum Constrained ARAT Markov Games.,0.010872602462768555,0.0035753250122070312
@@ -8675,7 +8675,7 @@ Metcheurittic.,NTRU Fatigue: How Stretched is Overstretched?,0.00230383872985839
 Offline Lecrning.,Online Learning versus Offline Learning.,0.012908458709716797,0.005242824554443359
 Evolutioaary Coiputiag.,Antisway Control for a Rotary Crane by Using Evolutionary Computation.,0.009740829467773438,0.0076138973236083984
 Learaiag to Leara.,How to Learn/What to Learn.,0.007593631744384766,0.00617527961730957
-,Itei.,4.76837158203125e-06,1.1920928955078125e-06
+Itei.,,4.76837158203125e-06,1.1920928955078125e-06
 Minimum Cutt.,Maximum Concurrent Flows and Minimum Cuts.,0.018862485885620117,0.01113128662109375
 Mecn Thift.,Game Thinking X Game Design Thinking.,0.0003783702850341797,0.00015807151794433594
 Morphosynsacsic Disambiguasion.,Morphosyntactic Disambiguation.,0.02324080467224121,0.014407157897949219
@@ -8766,8 +8766,8 @@ Feature Subset Selectioa.,Remainder Subset Awareness for Feature Subset Selectio
 Inttcnce-Bcted Lecrning.,Self-Directed Learning and Its Relation to the VC-Dimension and to Teacher-Directed Learning.,0.016267776489257812,0.010259389877319336
 Tupertmoothing.,Spline Smoothing: A Special Case of Diffusion Smoothing.,0.019985198974609375,0.0106201171875
 Refereace Recoaciliatioa.,Reference Reconciliation.,0.045510053634643555,0.019951581954956055
-,Opiaioa Iiaiag.,1.5497207641601562e-05,1.430511474609375e-06
-,ACOC.,3.5762786865234375e-06,7.152557373046875e-07
+Opiaioa Iiaiag.,,1.5497207641601562e-05,1.430511474609375e-06
+ACOC.,,3.5762786865234375e-06,7.152557373046875e-07
 Quasi-Insarpolasion.,Quasi-Interpolation.,0.0148468017578125,0.011198997497558594
 <i>m</i>-Ettimcte.,Design of control charts with <i>m</i>-of-<i>m</i> runs rules.,0.0017330646514892578,0.0012640953063964844
 Clcttificction Lecrning.,Interpolation Learning With Minimum Description Length.,0.006890773773193359,0.004658699035644531
@@ -8777,7 +8777,7 @@ Unttcble Lecrner.,Unstable Learner.,0.002850055694580078,0.0020618438720703125
 Inequclitiet.,Convex Matrix Inequalities Versus Linear Matrix Inequalities.,0.0058438777923583984,0.004559755325317383
 Karnal Masrix.,A Comparison between Internal and External Malicious Traffic.,0.010672807693481445,0.008691072463989258
 POS Sagging.,Improving music auto-tagging by intra-song instance bagging.,0.005385398864746094,0.0035505294799804688
-,TAa.,4.291534423828125e-06,9.5367431640625e-07
+TAa.,,4.291534423828125e-06,9.5367431640625e-07
 Lecrning from Nonvectoricl Dctc.,Learning from Nonvectorial Data.,0.017552852630615234,0.012571096420288086
 Comparison Sraining.,Minimal Comparison Sorting by Choosing Most Efficient Comparisons.,0.050333499908447266,0.018635988235473633
 Correlatioa Clusteriag.,Correlation Clustering with a Fixed Number of Clusters.,0.04210257530212402,0.02147817611694336
@@ -8798,7 +8798,7 @@ Ragrassion.,Sparse Gaussian process for online seagrass semantic mapping.,0.0077
 Sass Sas.,Multiband Quadrature Bandpass Sampling.,0.0005476474761962891,0.0003502368927001953
 Predictive Techniquet in Toftwcre Engineering.,Privacy Engineering Meets Software Engineering. On the Challenges of Engineering Privacy ByDesign.,0.06070423126220703,0.0265347957611084
 Projacsiva Clussaring.,A Java Cluster Management Service.,0.017563819885253906,0.013587713241577148
-,Eliaa aetwork.,1.4781951904296875e-05,1.1920928955078125e-06
+Eliaa aetwork.,,1.4781951904296875e-05,1.1920928955078125e-06
 Minimum Detcription Length Principle.,Minimum Description Length Principle.,0.07299160957336426,0.036823272705078125
 AQ.,AQ.,7.3909759521484375e-06,1.0013580322265625e-05
 Bioiedical Iaforiatics.,What ELSE? Regulation and Compliance in Medical Imaging and Medical Informatics.,0.03269147872924805,0.021155834197998047
@@ -8813,7 +8813,7 @@ Observatioa Laaguage.,Observlets: Empowering Analytical Observations on Web Obse
 Programming from Sracas.,Improving Learning from Demonstrations by Learning from Experience.,0.009159088134765625,0.00600123405456543
 Discriiiaative Learaiag.,Discriminative Learning Can Succeed Where Generative Learning Fails.,0.016028404235839844,0.01082611083984375
 Bayas Nas.,Foraging Swarms as Nash Equilibria of Dynamic Games.,5.221366882324219e-05,3.3855438232421875e-05
-,Dittcnce.,5.9604644775390625e-06,9.5367431640625e-07
+Dittcnce.,,5.9604644775390625e-06,9.5367431640625e-07
 Context-Tentitive Lecrning.,The Growing Context-Sensitive Languages Are the Acyclic Context-Sensitive Languages.,0.01373147964477539,0.01062774658203125
 Pruning.,Pruning-aware Sparse Regularization for Network Pruning.,0.0038683414459228516,0.0022530555725097656
 Raadoi Decisioa Forests.,"Forest Packing: Fast Parallel, Decision Forests.",0.023030519485473633,0.01214909553527832
@@ -8822,7 +8822,7 @@ Laarning Curvas in Machina Laarning.,Learning Curves in Machine Learning.,0.0085
 Dynamic Dacision Nasworks.,Noise Attenuation of Seismic Data via Deep Multiscale Fusion Network.,0.007869958877563477,0.006666660308837891
 Tubtpcce Cluttering.,Clutter Filtering Algorithm in Dense Clutter Environment.,0.0059051513671875,0.003391265869140625
 Informction Retrievcl.,Information Retrieval: Searching in the 21st Century; Human Information Retrieval.,0.04241800308227539,0.01849985122680664
-,Detcil.,6.67572021484375e-06,9.5367431640625e-07
+Detcil.,,6.67572021484375e-06,9.5367431640625e-07
 Bcyeticn Methodt.,Newton-Stein Method: An Optimization Method for GLMs via Stein's Lemma.,0.007812976837158203,0.006442070007324219
 Univarsal Laarning Shaory.,Tarsal and Metatarsal Bone Mineral Density Measurement Using Volumetric Quantitative Computed Tomography.,0.007974386215209961,0.0064563751220703125
 ROC Cnclytit.,ROC Convex Hull.,4.673004150390625e-05,2.3365020751953125e-05
@@ -8839,7 +8839,7 @@ Overcll cnd Clctt-Tentitive Frequenciet.,Overall and Class-Sensitive Frequencies
 Experieace Curve.,Experience Curve.,0.011023759841918945,0.007910013198852539
 Suparvisad Laarning.,Clasificador no supervisado para series de tiempo.,7.843971252441406e-05,4.2438507080078125e-05
 Bcum-Welch Clgorithm.,Baum-Welch Algorithm.,0.007184028625488281,0.006250858306884766
-,Kiad.,4.291534423828125e-06,7.152557373046875e-07
+Kiad.,,4.291534423828125e-06,7.152557373046875e-07
 Structured Data Clusteriag.,Structured Data Clustering.,0.048261165618896484,0.02732110023498535
 Clutter Optimizction.,Clutter Filtering Algorithm in Dense Clutter Environment.,0.011009693145751953,0.007245063781738281
 Obtervction Lcngucge.,Threshold Relations and Diffraction Loss for Injection Lasers.,0.004683017730712891,0.0037996768951416016
@@ -8886,7 +8886,7 @@ Mcrkov Rcndom Field.,Image Labeling with Markov Random Fields and Conditional Ra
 Robot Learaiag.,Robot Awareness in Cooperative Mobile Robot Learning.,0.013104915618896484,0.011446952819824219
 Out-of-Tcmple Evcluction.,Out-of-Sample Evaluation.,0.008785486221313477,0.006797075271606445
 Pcrticle Twcrm Optimizction.,Particle filter based on Particle Swarm Optimization resampling for vision tracking.,0.01934671401977539,0.0093841552734375
-,IDL.,5.245208740234375e-06,9.5367431640625e-07
+IDL.,,5.245208740234375e-06,9.5367431640625e-07
 Frequeat Iteiset.,Discovering Frequent Itemsets in the Presence of Highly Frequent Items.,0.005551338195800781,0.005048036575317383
 Word Sease Disaibiguatioa.,Word Domain Disambiguation via Word Sense Disambiguation.,0.01940631866455078,0.014156579971313477
 Backpropagatioa.,Equivalence of Equilibrium Propagation and Recurrent Backpropagation.,0.012113332748413086,0.0026247501373291016
@@ -8944,21 +8944,21 @@ Cctegory.,The Category of Directed Systems in a Category.,0.003353118896484375,0
 Error Rcte.,"Error Reporting, Error Treatment, and Error Correction in Algol Translation - Part 1.",0.01111459732055664,0.0067081451416015625
 Thcnnon't Informction.,We don't know we don't know: asserting ignorance.,0.0018832683563232422,0.0015058517456054688
 Dependency Directed Bccktrccking.,Dependency Directed Backtracking.,0.038666725158691406,0.024689912796020508
-,Mettcge.,8.106231689453125e-06,1.1920928955078125e-06
+Mettcge.,,8.106231689453125e-06,1.1920928955078125e-06
 Item.,Item.,2.288818359375e-05,3.170967102050781e-05
 Ordincl Cttribute.,Ordinal Attribute.,0.004300355911254883,0.003432035446166992
 Inducsiva Program Synshasis.,Inductive Program Synthesis.,0.011527776718139648,0.009294986724853516
 Iiiuae aetwork.,In the aether.,1.6689300537109375e-05,2.1696090698242188e-05
 Overfittiag.,Machine Learning Students Overfit to Overfitting.,0.0008647441864013672,0.0004954338073730469
 Cluttering with Tide Informction.,Clutter Cancellation Along the Clutter Ridge for Airborne Passive Radar.,0.01353311538696289,0.010057687759399414
-,Sypa.,5.0067901611328125e-06,7.152557373046875e-07
+Sypa.,,5.0067901611328125e-06,7.152557373046875e-07
 Competitive Coevolution.,Competitive Coevolution.,0.03461480140686035,0.018534421920776367
 Grammar Laarning.,Grammar Recovery from Parse Trees and Metrics-Guided Grammar Refactoring.,0.006165027618408203,0.003110170364379883
 Cross-Validasion.,Validation and Cross-Validation Methods for ASCAT.,0.028542041778564453,0.01782846450805664
 Inttcnce-Bcted Reinforcement Lecrning.,RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning.,0.05681133270263672,0.018612146377563477
 Kernel-Bcted Reinforcement Lecrning.,RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning.,0.058860063552856445,0.020413875579833984
 ROC Curve.,ROC Curve.,0.003420591354370117,0.0017011165618896484
-,IOO.,5.0067901611328125e-06,9.5367431640625e-07
+IOO.,,5.0067901611328125e-06,9.5367431640625e-07
 Moss Similar Poins.,When Similar Problems Don't Have Similar Solutions.,0.023822784423828125,0.01068735122680664
 <i>F</i><sub>1</sub>-Ieasure.,Cyclic codes over <i>F</i><sub>2</sub>+<i>u</i><i>F</i><sub>2</sub>+<i>v</i><i>F</i><sub>2</sub>+<i>uv</i><i>F</i><sub>2</sub>.,0.013264656066894531,0.003995418548583984
 Laplaciaa Iatrix.,On Determinant of Laplacian Matrix and Signless Laplacian Matrix of a Simple Graph.,0.008412599563598633,0.006345272064208984
@@ -8966,7 +8966,7 @@ Kerael-Based Reiaforceieat\break Learaiag.,Kernel-Based Reinforcement\break Lear
 Proparsy.,Copy Propagation subsumes Constant Propagation.,0.001993417739868164,0.0014827251434326172
 Ssopping Crisaria.,Informating Crisis: Expanding Critical Perspectives in Crisis Informatics.,0.0071375370025634766,0.005975008010864258
 Ockhai's Razor.,Ockham's Razor.,0.00016736984252929688,6.651878356933594e-05
-,Recognition.,9.5367431640625e-06,4.76837158203125e-07
+Recognition.,,9.5367431640625e-06,4.76837158203125e-07
 aorial Distributioa.,Transmuted Linear Exponential Distribution: A New Generalization of the Linear Exponential Distribution.,0.014687299728393555,0.010551691055297852
 F-Ieasure.,F-Measure.,0.0006563663482666016,0.0004444122314453125
 Bias Spacificasion Languaga.,Bias Specification Language.,0.02540731430053711,0.01974630355834961
@@ -8978,7 +8978,7 @@ Reward Selectioa.,Reward Selection.,0.020334720611572266,0.015007495880126953
 Multi-Objective Optimizction.,A PSO-Based Hybrid Multi-Objective Algorithm for Multi-Objective Optimization Problems.,0.009860038757324219,0.005878448486328125
 Thcttering Coefficient.,Shattering Coefficient.,0.004723548889160156,0.0027914047241210938
 Intervcl Tccle.,Interval additive generators of interval t-norms and interval t-conorms.,0.004724264144897461,0.00405430793762207
-,Trcit.,5.4836273193359375e-06,9.5367431640625e-07
+Trcit.,,5.4836273193359375e-06,9.5367431640625e-07
 Caaaot-Liak Coastraiat.,"Terrestrial Laser Scanning for the Detection of Coastal Changes along Rauk Coasts of Gotland, Baltic Sea.",0.0005958080291748047,0.0002276897430419922
 Recogaitioa.,Arbitrary biped robot foot gaiting based on variate COM height.,1.3589859008789062e-05,1.811981201171875e-05
 Ssasissical Machina Sranslasion.,Neural Machine Translation Advised by Statistical Machine Translation.,0.03774881362915039,0.027446269989013672
@@ -9012,7 +9012,7 @@ Arror.,LOO Error.,0.00035572052001953125,0.00014066696166992188
 Avolusionary Compusing.,Evolutionary Automata: Expressiveness and Convergence of Evolutionary Computation.,0.03023386001586914,0.01855921745300293
 Iaductive Learaiag.,Inductive Learning in Deductive Databases.,0.010893583297729492,0.007297039031982422
 Characsarissic.,Smart Mobile Virtual Characters: Video Characters vs. Animated Characters.,0.006880283355712891,0.0060045719146728516
-,Pruaiag.,7.152557373046875e-06,7.152557373046875e-07
+Pruaiag.,,7.152557373046875e-06,7.152557373046875e-07
 Cross-Languaga Documans Casagorizasion.,Cross-Language Document Categorization.,0.03536176681518555,0.02217388153076172
 Frequent Pcttern.,Generating Frequent Patterns with the Frequent Pattern List.,0.017768383026123047,0.013815164566040039
 Fuactioaal Trees.,A Collective Property of Trees and Chemical Trees.,0.01391744613647461,0.009705781936645508
@@ -9032,7 +9032,7 @@ PCC-MDP Lecrning.,PAC-MDP Learning.,7.653236389160156e-05,3.123283386230469e-05
 Potttyncptic Neuron.,Postsynaptic Neuron.,0.01208639144897461,0.008721351623535156
 Predicate Logic.,Deriving Logical Relations from Interpretations of Predicate Logic.,0.03285813331604004,0.02240467071533203
 Uaiversal Learaiag Theory.,Universal Learning Theory.,0.04045557975769043,0.024609088897705078
-,SOI.,6.198883056640625e-06,9.5367431640625e-07
+SOI.,,6.198883056640625e-06,9.5367431640625e-07
 Bias-Variaace Trade-offs.,Bias-Variance Trade-offs.,0.026612043380737305,0.018645048141479492
 Spacializasion.,Study of spacializing social statistical data for carbon management.,0.014080286026000977,0.011197805404663086
 Avolusionary Grouping.,Evolutionary Grouping.,0.03352022171020508,0.01841449737548828
@@ -9049,7 +9049,7 @@ Group Detection.,A Conceptual Group Decision Support System for Current Times: D
 Bolszmann Machinas.,Boltzmann Machines.,0.0028247833251953125,0.0017228126525878906
 Possarior.,Glossaries for computing and data processing.,0.00036454200744628906,0.0001437664031982422
 Pruning Tet.,Pruning-aware Sparse Regularization for Network Pruning.,0.00974416732788086,0.007103681564331055
-,Aiganvacsor.,1.9073486328125e-05,9.5367431640625e-07
+Aiganvacsor.,,1.9073486328125e-05,9.5367431640625e-07
 Seii-Supervised Learaiag.,Barely-Supervised Learning: Semi-Supervised Learning with very few labeled images.,0.03903913497924805,0.018728017807006836
 Necrett Neighbor.,Nearest Neighbor and Reverse Nearest Neighbor Queries for Moving Objects.,0.011744022369384766,0.003570556640625
 Ganasic and Avolusionary Algorishms.,Genetic and Evolutionary Algorithms.,0.03478121757507324,0.01803278923034668
@@ -9100,7 +9100,7 @@ Raadoi Forests.,Mondrian Forests: Efficient Online Random Forests.,0.00922727584
 Siiple Recurreat aetwork.,Simple Recurrent Units for Highly Parallelizable Recurrence.,0.027225017547607422,0.016552448272705078
 Hiddan Markov Modals.,Feature Selection for Hidden Markov Models and Hidden Semi-Markov Models.,0.02297043800354004,0.009188175201416016
 Madicina: Applicasions of Machina Laarning.,Medicine: Applications of Machine Learning.,0.01705622673034668,0.013965845108032227
-,Cott.,5.245208740234375e-06,9.5367431640625e-07
+Cott.,,5.245208740234375e-06,9.5367431640625e-07
 Nonpcrcmetric Clutter Cnclytit.,Clutter Edges Detection Algorithms for Structured Clutter Covariance Matrices.,0.01119089126586914,0.008380889892578125
 Cdcptive Recl-Time Dyncmic Progrcmming.,Adaptive Real-Time Dynamic Programming.,0.04954028129577637,0.03266000747680664
 Iistake-Bouaded Learaiag.,Mistake-Bounded Learning.,0.013770580291748047,0.007210254669189453
@@ -9151,7 +9151,7 @@ Ieiory-Based Learaiag.,Memory-Based Learning.,0.0174100399017334,0.0096805095672
 Aaalytical Learaiag.,Analytical Learning.,0.019170284271240234,0.00868844985961914
 Manhassan Dissanca.,Maps of Human Disease: A Web-Based Framework for the Visualization of Human Disease Comorbidity and Clinical Profile Overlay.,0.0058727264404296875,0.004647254943847656
 Repretentction Lcngucge.,CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning.,0.013213872909545898,0.01100778579711914
-,Noisa.,5.9604644775390625e-06,7.152557373046875e-07
+Noisa.,,5.9604644775390625e-06,7.152557373046875e-07
 Hold-Ona-Ous Arror.,Hold-One-Out Error.,0.0007252693176269531,0.00045871734619140625
 Prafaranca Laarning.,Shape-appearance-correlated active appearance model.,0.0008528232574462891,0.0005421638488769531
 Sansimans Analysis.,GDTF: Generalized Detection Theoretic Framework for T-Wave Alternans Analysis.,0.0019369125366210938,0.0015347003936767578
@@ -9171,7 +9171,7 @@ Unknown Valuas.,Unknown Values.,0.009712457656860352,0.004845857620239258
 Object Iatchiag.,Track Matching by Major Color Histograms Matching and Post-matching Integration.,0.008105993270874023,0.0068013668060302734
 Modal-Basad Clussaring.,A Modal-Based Real-Time Piano Synthesizer.,0.02339482307434082,0.018303394317626953
 Inductive Inference.,Inductive Inference.,0.043605804443359375,0.027193546295166016
-,TCN.,5.7220458984375e-06,9.5367431640625e-07
+TCN.,,5.7220458984375e-06,9.5367431640625e-07
 Rcnk Correlction.,Rank Correlation Coefficient Correction by Removing Worst Cases.,0.018930673599243164,0.009481668472290039
 Positive Seiidefiaite.,Positive Semidefinite.,0.013295650482177734,0.0104522705078125
 Abductioa.,Abduction and Abductive Logic Programming.,0.00035762786865234375,0.00012636184692382812
@@ -9193,7 +9193,7 @@ Radeiacher Average.,Rademacher Average.,0.015862703323364258,0.00876116752624511
 Exaiple.,XML Triple.,0.00031876564025878906,0.00011968612670898438
 Mcrkov Network.,Markov Network.,0.0036416053771972656,0.003065824508666992
 Subgroup Discovery.,Subgroup Discovery.,0.034159183502197266,0.017166614532470703
-,Reccll.,8.106231689453125e-06,9.5367431640625e-07
+Reccll.,,8.106231689453125e-06,9.5367431640625e-07
 Iterative Coiputatioa.,Extensions of Iterative Congruences on Free Iterative Algebras.,0.0252532958984375,0.0135498046875
 Insarval Scala.,Improving Enclosure of Interval Scalar Projection Operation.,0.015393495559692383,0.010713338851928711
 Text Iiaiag for Advertisiag.,Mobile Phones and Outdoor Advertising: Measurable Advertising.,0.018852949142456055,0.01045989990234375
@@ -9214,7 +9214,7 @@ Aaalysis of Text.,Thematic Segmentation of Texts: Two Methods for Two Kinds of T
 Clussar Opsimizasion.,Abschlussarbeiten Fachschule Informationstechnik.,0.009332418441772461,0.007865428924560547
 Falsa Posisiva.,A New Design of a Positive Functional Filters for Positive linear Systems.,0.003300189971923828,0.0028018951416015625
 Leave-Oae-Out Cross-Validatioa.,Leave-One-Out Cross-Validation.,0.02867746353149414,0.011695384979248047
-,DBa.,4.76837158203125e-06,9.5367431640625e-07
+DBa.,,4.76837158203125e-06,9.5367431640625e-07
 Boostiag.,MultiBoosting: A Technique for Combining Boosting and Wagging.,0.0025048255920410156,0.001626729965209961
 Streai Iiaiag.,Single Stream Image and Stream Network Prefetch in Streaming Media Proxy Caching.,0.004193544387817383,0.003478527069091797
 Learaiag Word Seases.,Learning Word Sense Embeddings from Word Sense Definitions.,0.012633562088012695,0.008614063262939453
@@ -9265,7 +9265,7 @@ Maximally Ganaral Hyposhasis.,Maximally General Hypothesis.,0.011660575866699219
 Error Correcting Output Codet.,Error Correcting Output Codes.,0.07165980339050293,0.04509162902832031
 Ralasionship Axsracsion.,Relationship of relationships and other inter-relationship links in E-R model.,0.032459259033203125,0.019960641860961914
 Dissribusion-Fraa Laarning.,Monocular Vision-Based Collision-Free Navigation for Flying Robots.,0.0054035186767578125,0.004404783248901367
-,Sas.,6.4373016357421875e-06,9.5367431640625e-07
+Sas.,,6.4373016357421875e-06,9.5367431640625e-07
 Bahavioral Cloning.,Behavioral Cloning.,0.016438722610473633,0.012222528457641602
 Axplanasion-Basad Laarning for Planning.,Explanation-Based Learning for Planning.,0.0426332950592041,0.021366119384765625
 Experience Curve.,Experience Curve.,0.022355079650878906,0.009338855743408203
@@ -9345,13 +9345,13 @@ Informction Integrction.,Optimization of Information Interaction Interface Based
 Ceatral Projectioa.,How Projective is Projective Content? Gradience in Projectivity and At-issueness.,0.04980826377868652,0.025088787078857422
 Filtering.,Information Filtering and Information Retrieval with the Web Filtering Toolbar.,0.01171565055847168,0.007988929748535156
 Quclity Tpcticl Dctc.,Developing Musical Creativity Through Activity Theory in an Online Learning Environment.,0.0023245811462402344,0.0017745494842529297
-,IOBR.,5.7220458984375e-06,9.5367431640625e-07
+IOBR.,,5.7220458984375e-06,9.5367431640625e-07
 Coaceptual Geaeralizatioa of Databases.,Conceptual Generalization of Databases.,0.057512760162353516,0.025202274322509766
 Dissribusad Gaocompusasion.,Internet geolocation: Evasion and counterevasion.,0.010000467300415039,0.007750272750854492
 Ioviag Poiats.,Sleep Apnea Detection Using Multi-Lag Poincare Plot.,0.0005676746368408203,0.0003230571746826172
 Concurrency Control for Tpcticl Cccett Method.,Concurrency Control Mechanisms and the Serializability of Concurrent Tree Algorithms.,0.04973602294921875,0.03586435317993164
 aearest aeighbor Query.,Nearest Neighbor and Reverse Nearest Neighbor Queries for Moving Objects.,0.026383161544799805,0.011701583862304688
-,NTDI.,6.4373016357421875e-06,9.5367431640625e-07
+NTDI.,,6.4373016357421875e-06,9.5367431640625e-07
 Raal Assasa Analysis.,DAICA - Digital Assistant Investigating Cultural Assets.,0.003968715667724609,0.0026476383209228516
 Web Feature Service (WFS) aad Web Iap Service (WIS).,Web Feature Service (WFS) and Web Map Service (WMS).,0.019023418426513672,0.01395416259765625
 Cctivitiet Fixed.,"Activities, Fixed.",0.00632166862487793,0.002531766891479492
@@ -9431,7 +9431,7 @@ Seasor aetworks.,Pricing Strategies for Different Periods During Subsequent Sell
 Cachiag.,Learning-Based Delay-Aware Caching in Wireless D2D Caching Networks.,0.0011439323425292969,0.0007932186126708984
 SQL.,SQL.,5.245208740234375e-06,5.245208740234375e-06
 Web Services Geospatial.,Geospatial Web Services: The Evolution of Geospatial Data Infrastructure.,0.021526813507080078,0.013962268829345703
-,FS.,4.5299530029296875e-06,1.430511474609375e-06
+FS.,,4.5299530029296875e-06,1.430511474609375e-06
 Participatioa Iadex.,To Participate Or Not To Participate: An Investigation Of Strategic Participation In Standards.,0.0302274227142334,0.015845060348510742
 Resource Descriptioa Fraiework (RDF).,Resource Description Framework (RDF).,0.0484769344329834,0.021969318389892578
 Geoseasor aetworks Qualitative Ioaitoriag of Dyaaiic Fields.,"Geosensor Networks, Qualitative Monitoring of Dynamic Fields.",0.06090569496154785,0.03579235076904297
@@ -9485,11 +9485,11 @@ Concurrans Procassing.,Concurrency and Concurrent Constraint Programming,0.01691
 Iaforiatioa Visualizatioa.,Data Visualization Saliency Model: A Tool for Evaluating Abstract Data Visualizations.,0.029515504837036133,0.018819093704223633
 Geogrcphic Covercge Ttcndcrdt cnd Tervicet.,Geographic Coverage Standards and Services.,0.024149417877197266,0.016451597213745117
 Axploising Saquansial Chack-In Passarns for Parsonalizad Locasion-Awara Racommandasions.,Exploiting Sequential Check-In Patterns for Personalized Location-Aware Recommendations.,0.08179402351379395,0.05597496032714844
-,QGIT.,8.58306884765625e-06,1.430511474609375e-06
+QGIT.,,8.58306884765625e-06,1.430511474609375e-06
 All-k-Naarass Naighbors.,All-k-Nearest Neighbors.,0.005926847457885742,0.0030226707458496094
 Regressioa Geographically Weighted.,"Regression, Geographically Weighted.",0.07800984382629395,0.03921675682067871
 MapWindow GIS.,MapWindow GIS.,0.003940582275390625,0.001920938491821289
-,NISS.,6.4373016357421875e-06,9.5367431640625e-07
+NISS.,,6.4373016357421875e-06,9.5367431640625e-07
 Clocking Clgorithmt for Locction Privccy.,Preserving User Location Privacy for Location-Based Service.,0.027465343475341797,0.01966381072998047
 Lossy Iiage Coipressioa.,Lossy Image Compression.,0.008573055267333984,0.005605936050415039
 Ocaan Insarnal Wavas.,Ocean Internal Waves.,0.009628772735595703,0.007487058639526367
@@ -9498,7 +9498,7 @@ Buadle Adjustieat.,Bundle Adjustment.,0.004434823989868164,0.002426624298095703
 Hierarchical Spatial Iodels.,Hierarchical Models as Marginals of Hierarchical Models.,0.08496975898742676,0.043709516525268555
 Trajectory Iiaiag.,Compressing Trajectory for Trajectory Indexing.,0.014942646026611328,0.0046193599700927734
 Mining Saquansial Influanca for Parsonalizad Locasion Racommandasions.,Mining Sequential Influence for Personalized Location Recommendations.,0.08008551597595215,0.0604250431060791
-,Q-Sraa.,1.1682510375976562e-05,1.9073486328125e-06
+Q-Sraa.,,1.1682510375976562e-05,1.9073486328125e-06
 Geotpcticl Technology.,Geospatial Technology.,0.005946159362792969,0.00443720817565918
 Liaear Refereace Iodel.,Linear Reference Model.,0.022672414779663086,0.014620542526245117
 Tpctiotemporcl Networkt.,Development of Spatiotemporal Recurrent Neural Network for Modeling of Spatiotemporal Processes.,0.006944179534912109,0.003554105758666992
@@ -9568,7 +9568,7 @@ Braach aad Bouad.,Objects with Broad Boundaries.,0.0012013912200927734,0.0008163
 Corralasad Frailsy Modals.,Correlated Frailty Models.,0.007727622985839844,0.0056018829345703125
 Eiergeacy Respoase.,Using Ontological Information to Enhance Responder Availability in Emergency Response.,0.009419679641723633,0.005291461944580078
 Conceptucl Modeling.,Conceptual Modeling Systems: A Vision for the Future of Conceptual Modeling.,0.03681159019470215,0.020706653594970703
-,Toftwcre.,1.1682510375976562e-05,9.5367431640625e-07
+Toftwcre.,,1.1682510375976562e-05,9.5367431640625e-07
 Uacertaia Eaviroaieatal Variables ia GIS.,Uncertain Environmental Variables in GIS.,0.054891347885131836,0.025104284286499023
 Digitcl Pcthology.,Towards the Augmented Pathologist: Challenges of Explainable-AI in Digital Pathology.,0.009926080703735352,0.006762981414794922
 Filter-Refiae Paradigi.,Filter-Refine Paradigm.,0.016600608825683594,0.011647462844848633
@@ -9747,10 +9747,10 @@ Collaborasiva Sracking.,"On the Paradox of Collaboration, Collaborative Systems 
 Digital Chaage Detectioa Iethods.,Digital Change Detection Methods.,0.019376754760742188,0.01299285888671875
 McpTerver.,Ontoserver: a syndicated terminology server.,0.005446434020996094,0.004559040069580078
 Point Necrett-Neighbor Query.,Point Nearest-Neighbor Query.,0.03198051452636719,0.02071380615234375
-,GPT.,6.4373016357421875e-06,1.6689300537109375e-06
+GPT.,,6.4373016357421875e-06,1.6689300537109375e-06
 Oblique Imcget.,Oblique Images.,0.014693975448608398,0.00914907455444336
 Query Lcngucget for Moving Objectt.,Query Languages for Moving Objects.,0.05556678771972656,0.03892064094543457
-,WIS.,5.7220458984375e-06,1.430511474609375e-06
+WIS.,,5.7220458984375e-06,1.430511474609375e-06
 Agg-Yolk Modal.,Egg-Yolk Model.,0.00781393051147461,0.004322052001953125
 Coatiageacy Iaaageieat Systei.,Averaging Principle for Multiscale Stochastic Klein-Gordon-Heat System.,0.016767501831054688,0.01085209846496582
 Assimasion Paramasric.,Maximum Entropy Reconstruction Methods in Electron Paramagnetic Resonance Imaging.,0.024343490600585938,0.012295961380004883
@@ -9759,7 +9759,7 @@ Tpcticl Dctc: Mcrket cnd Infrcttructure.,Spatial Data: Market and Infrastructure
 Parsicipasory Planning and GIS.,Participatory Planning and GIS.,0.03380227088928223,0.021497249603271484
 Evideace.,Evidence Propagation and Value of Evidence on Influence Diagrams.,0.0017123222351074219,0.0013773441314697266
 Public Health aad Spatial Iodeliag.,Big-Data Method to Advance Public Health Informatics: Smarter Public Health Prevention System (SPHPS).,0.05674862861633301,0.02878427505493164
-,aPR.,5.7220458984375e-06,1.1920928955078125e-06
+aPR.,,5.7220458984375e-06,1.1920928955078125e-06
 FGDC.,FGDC.,5.0067901611328125e-06,8.821487426757812e-06
 Statistical Descriptioas of Spatial Patteras.,Statistical Descriptions of Spatial Patterns.,0.11865496635437012,0.05680203437805176
 Dasa-Ssrucsura.,A super Sasa-Satsuma hierarchy and bi-Hamiltonian structures.,2.384185791015625e-05,4.0531158447265625e-05
@@ -9901,7 +9901,7 @@ Dctc Modelt.,Hydrologic Modeling and Hydraulic Modeling with GIS.,0.003024578094
 Imaga Comprassion.,Compressionism: A Theory of Mind Based on Data Compression.,0.01903676986694336,0.015163421630859375
 Intervice.,Interview - An interview with Ping Fu.,0.007113933563232422,0.005868196487426758
 Spatioteiporal Iodeliag Laaguage Exteasioa.,Spatiotemporal Modeling Language Extension.,0.04710221290588379,0.036351680755615234
-,Ra*-Sraa.,1.0013580322265625e-05,1.6689300537109375e-06
+Ra*-Sraa.,,1.0013580322265625e-05,1.6689300537109375e-06
 Spatial Data Iiaiag.,What Makes Spatial Data Big? A Discussion on How to Partition Spatial Data.,0.01940131187438965,0.012325763702392578
 Regrettion Geogrcphicclly Weighted.,Regional Precipitation Model Based on Geographically and Temporally Weighted Regression Kriging.,0.02611994743347168,0.012635231018066406
 Optimcl Mctching Between Tpcticl Dctctett.,Harmonization Profiles for Trusted Data Sharing Between Data Spaces: Striking the Balance between Functionality and Complexity.,0.0312657356262207,0.008794546127319336
@@ -9910,7 +9910,7 @@ RDF.,RDF.,6.67572021484375e-06,6.67572021484375e-06
 Index Lifetime.,Index Lifetime.,0.011439323425292969,0.007110595703125
 Proparsy Ragissar.,Copy Propagation subsumes Constant Propagation.,0.002084970474243164,0.0016551017761230469
 Filter aad Refiae Strategy.,Filter and Refine Strategy.,0.04357624053955078,0.028473854064941406
-,GDCL.,7.62939453125e-06,1.1920928955078125e-06
+GDCL.,,7.62939453125e-06,1.1920928955078125e-06
 Mission Oparasions Scianca Applicasions/Raquiramanss.,"Mission Operations, Science Applications/Requirements.",0.034383296966552734,0.01966238021850586
 Spasial Dasa Indaxing wish Uncarsainsy.,Spatial Data Indexing with Uncertainty.,0.011495590209960938,0.008682727813720703
 Tpctiotemporcl Dctcbcte.,Spatiotemporal trajectory clustering: A clustering algorithm for spatiotemporal data.,0.006875276565551758,0.0035407543182373047
@@ -9969,12 +9969,12 @@ Tmcrt Buildingt.,OpenBAN: An Open Building ANalytics Middleware for Smart Buildi
 Focal Sass.,Towards Multifocal Displays with Dense Focal Stacks.,0.0201108455657959,0.016440153121948242
 R-Trees: A Dyaaiic Iadex Structure for Spatial Searchiag.,R-Trees: A Dynamic Index Structure for Spatial Searching.,0.07696700096130371,0.04919242858886719
 Lcnd Turfcce Emittivity.,Theory and Modeling of Lasing Modes in Vertical Cavity Surface Emitting Lasers.,0.003323793411254883,0.0023736953735351562
-,GRCTT-GIT.,1.1205673217773438e-05,1.1920928955078125e-06
+GRCTT-GIT.,,1.1205673217773438e-05,1.1920928955078125e-06
 Rectaagle Hyper-.,Decomposing Hypergraphs into Simple Hypertrees.,0.010779619216918945,0.005301237106323242
 Tpcticl/Urbcn Dctc Tcience.,Spatial/Urban Data Science.,0.006788730621337891,0.005870819091796875
 Statioaarity.,Static Analysis of Parity Games: Alternating Reachability Under Parity.,0.02054142951965332,0.01582169532775879
 iRoad Syssam.,iRoad System.,0.0068242549896240234,0.0057811737060546875
-,Ioveieat.,9.775161743164062e-06,7.152557373046875e-07
+Ioveieat.,,9.775161743164062e-06,7.152557373046875e-07
 All-Naarass-Naighbors.,Neighborhood Watch: Stochastic Gradient Descent with Neighbors.,0.005632877349853516,0.002729654312133789
 Iadexiag Scheies for Iultidiieasioaal Ioviag Objects.,Indexing Schemes for Multidimensional Moving Objects.,0.02547478675842285,0.017569303512573242
 CrimaSsas: A Spasial Ssasissical Program for sha Analysis of Crima Incidanss.,CrimeStat: A Spatial Statistical Program for the Analysis of Crime Incidents.,0.05121731758117676,0.03829646110534668
@@ -9983,16 +9983,16 @@ Tpcticl Weightt Mctrix.,On the Total Weight of Weighted Matchings of Segment Gra
 Water Resources.,Application of Simulations in The Field of Water Resources and Water Treatment.,0.03821206092834473,0.023914098739624023
 Lcter Tccnning.,A Supercharacter Table Decomposition via Power-Sum Symmetric Functions.,0.0021038055419921875,0.0016677379608154297
 Quclity of Informction.,The Impact of Information Visualisation on the Quality of Information in Business Decision-Making.,0.010431289672851562,0.007796287536621094
-,GTDTT.,6.67572021484375e-06,9.5367431640625e-07
+GTDTT.,,6.67572021484375e-06,9.5367431640625e-07
 Bx-Tree.,Bx-Tree.,0.0008764266967773438,0.0006046295166015625
-,Cccurccy Mcp.,1.2636184692382812e-05,7.152557373046875e-07
+Cccurccy Mcp.,,1.2636184692382812e-05,7.152557373046875e-07
 Geospatial Seiaatic Web.,Geospatial Semantic Web.,0.019586801528930664,0.013561487197875977
 Ansisy Insagrasion.,Online Images Detection for Pantograph Slide Abrasion.,0.009953737258911133,0.008272409439086914
 Root-Mecn-Tqucre Error.,Root-Mean-Square Error.,0.009666204452514648,0.004281282424926758
 Spasiosamporal Modaling.,Multimodal Sentiment Analysis with Temporal Modality Attention.,0.0450282096862793,0.0319826602935791
 E-Tcience.,DeBruijn sequence.,0.006979465484619141,0.005316019058227539
 Simpla Objacs Accass Prosocol Sarvicas.,Simple Object Access Protocol Services.,0.020111083984375,0.01450490951538086
-,MapSarv.,9.298324584960938e-06,7.152557373046875e-07
+MapSarv.,,9.298324584960938e-06,7.152557373046875e-07
 Aaoayiizatioa of GPS Traces.,Anonymization of GPS Traces.,0.02514338493347168,0.020868539810180664
 Linaar Opsimizasion.,Near Optimal Private and Robust Linear Regression.,0.010191679000854492,0.007799386978149414
 Ioraa Coefficieat.,DC Coefficient Restoration using Nonlinear Criterion and AC Coefficients Restoration.,0.0029668807983398438,0.001379251480102539
