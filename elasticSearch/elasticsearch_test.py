@@ -60,14 +60,14 @@ results = []
 time3 = time.time()
 for randomized_string in df['Randomized_String'][0:10000]:
     match, score = find_best_match(randomized_string)
-time4 = time.time()
-print("Time taken to perform query ",time4-time3)
-
-results.append({
+    
+    results.append({
         "Randomized_String": randomized_string,
         "Matched_Original_String": match,
         "Score": score
     })
+time4 = time.time()
+print("Time taken to perform query ",time4-time3)
 
 #Write results
 results_df = pd.DataFrame(results)
@@ -75,6 +75,9 @@ output_csv_path = "matching_results_elasticsearch.csv"
 results_df.to_csv(output_csv_path, index=False)
 
 print(f"Results saved to {output_csv_path}")
+
+
+
 
 
 
