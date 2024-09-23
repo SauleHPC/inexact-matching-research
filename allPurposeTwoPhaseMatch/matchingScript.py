@@ -1,6 +1,6 @@
 from Parse import parse_file
 from matchingProgram import matching_process, build_hash_table, write_to_csv, make_graphs
-import time 
+import time
 '''
 script to execute matchingProgram used to paper querying
 '''
@@ -44,16 +44,16 @@ def all_arrays_empty(arrays):
     return all(not array for array in arrays)
 
 
-file1 = "../data/inexact-matching-dataset.csv"
-file1_key = "Randomized_String"
-file1_path = '../data/inexact-matching-dataset.csv'
-
 file2 = "../data/inexact-matching-dataset.csv"
-file2_key = "Original_String"
-file2_path ='../data/inexact-matching-dataset.csv'
+file2_key = "Randomized_String"
+file2_path = '../data/inexact-matching-dataset.csv'
 
-num_removed_kmers = [300, 800, 1400]
-num_kmers = [3, 5, 7]
+file1 = "../data/inexact-matching-dataset.csv"
+file1_key = "Original_String"
+file1_path ='../data/inexact-matching-dataset.csv'
+
+num_removed_kmers = [5000, 2500, 1200, 800, 400, 30]
+num_kmers = [11, 9, 7, 5, 3]
 
 for k_mer in num_kmers:
     for num_removed_kmer in num_removed_kmers:
