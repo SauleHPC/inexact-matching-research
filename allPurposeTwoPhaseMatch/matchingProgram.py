@@ -122,15 +122,15 @@ def matching_process(k_value, mer_hash, levenshtein_candidates, paper_details,ca
 
     if (match):
         #File 1
-        trial_results.append((best_match_title))
         #File 2
         trial_results.append((getattr(candidate, candidate_key)))
+        trial_results.append((best_match_title))
         successful_candidates +=1
         trial_results.append(hashTimeTot)
         trial_results.append(levTimeTotal)
     else:
-        trial_results.append((""))
         trial_results.append((getattr(candidate, candidate_key)))
+        trial_results.append((""))
         successful_candidates +=1
         trial_results.append(hashTimeTot)
         trial_results.append(levTimeTotal)
@@ -149,7 +149,7 @@ def write_to_csv(data, filename):
     """
     header = ['Randomized_String', 'Original_String', 'Hash_Time_Per_Query', 'Leven_Time_Per_Query']
 
-    directory = os.path.join('..', 'data') 
+    directory = os.path.join('..', 'data')
 
     os.makedirs(directory, exist_ok=True)
 
@@ -165,7 +165,7 @@ def make_graphs(file_path, method):
     data = pd.read_csv(file_path)
 
     #print(data.head())
-    
+
     data['Randomized_String'] = data['Randomized_String'].astype(str).fillna('')
     data['Original_String'] = data['Original_String'].astype(str).fillna('')
 
@@ -208,10 +208,3 @@ def make_graphs(file_path, method):
     plt.grid(True)
     plt.savefig('../parameter-study/'+method+'-levenshtein-distance.png')
     print("Done")
-
-
-
-
-
-
-
