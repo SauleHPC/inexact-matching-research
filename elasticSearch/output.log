@@ -4,6 +4,6 @@ nohup: ignoring input
 /home/dspradl1/inexact-matching-research/elasticSearch/elasticsearch_test.py:48: DeprecationWarning: Received 'size' via a specific parameter in the presence of a 'body' parameter, which is deprecated and will be removed in a future version. Instead, use only 'body' or only specific parameters.
   result = es.search(index=index_name, body=query, size=1)
 Index 'original_strings' created.
-Time to build document  18849.85521888733
-Time taken to perform query  310.19798016548157
+Time to build document  18056.322774648666
+Time taken to perform query  374.0783908367157
 Results saved to matching_results_elasticsearch.csv
